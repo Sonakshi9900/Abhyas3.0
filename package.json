@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
     "start": "concurrently \"npm run start --prefix server\" \"npm run dev --prefix client\"",
-    "build": "cd client && npm install && npm run build",
+    "build": "cd client && npm install && npm run build && node -e \"require('fs').cpSync('dist', '../dist', { recursive: true })\"",
     "seed": "npm run seed --prefix server",
     "generate-pdfs": "node server/scripts/generatePDFs.js",
     "test": "npm test --prefix server"
