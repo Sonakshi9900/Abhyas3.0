@@ -59,6 +59,7 @@ app.get(['/notes', '/notes/'], (req, res) => {
 app.use('/notes', express.static(path.join(__dirname, 'public/notes')));
 
 // Routes
+app.use('/api/auth', require('./routes/api/auth'));
 app.use('/api/questions', require('./routes/api/questions'));
 app.use('/api/papers', require('./routes/api/papers'));
 app.use('/api/attempts', require('./routes/api/attempts'));

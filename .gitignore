@@ -1,0 +1,27 @@
+# Dependency folders
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+server/.env
+
+# Build outputs
+client/dist/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# PDF Binaries & local downloads
+*.pdf
+
+# Machine-specific personal scripts
+server/scripts/local-only/
+scripts/local-only/

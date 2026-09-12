@@ -2,16 +2,7 @@ const express = require('express');
 const router = express.Router();
 const Question = require('../../models/Question');
 const Attempt = require('../../models/Attempt');
-const fs = require('fs');
-const path = require('path');
-
-const getFallbackQuestions = () => {
-  const jsonPath = path.join(__dirname, '../../data/questions_cache.json');
-  if (fs.existsSync(jsonPath)) {
-    return JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
-  }
-  return [];
-};
+const { getFallbackQuestions } = require('../../utils/fallback');
 
 // @route   GET /api/stats/overview
 // @desc    Overview statistics
@@ -29,7 +20,7 @@ router.get('/overview', async (req, res) => {
     }
 
     if (totalQuestions === 0) {
-      totalQuestions = getFallbackQuestions().length;
+      totalQuestions = getFallbackQuestions(true).length;
     }
 
     res.json({

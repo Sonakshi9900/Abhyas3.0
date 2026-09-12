@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 
 const AttemptSchema = new mongoose.Schema({
+  userId: { type: mongoose.Schema.Types.ObjectId, ref: 'User', default: null },
   title: { type: String, required: true },
   level: { type: String, required: true },
   mode: { type: String, enum: ['test', 'practice'], required: true },

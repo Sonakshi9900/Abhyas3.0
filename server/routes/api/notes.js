@@ -4,14 +4,7 @@ const mongoose = require('mongoose');
 const fs = require('fs');
 const path = require('path');
 const Note = require('../../models/Note');
-
-const getFallbackNotes = () => {
-  const jsonPath = path.join(__dirname, '../../data/notes_cache.json');
-  if (fs.existsSync(jsonPath)) {
-    return JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
-  }
-  return [];
-};
+const { getFallbackNotes } = require('../../utils/fallback');
 
 // @route   GET /api/notes
 // @desc    Get filtered list of D.El.Ed notes

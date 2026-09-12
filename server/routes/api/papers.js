@@ -1,17 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Paper = require('../../models/Paper');
-const Question = require('../../models/Question');
-const fs = require('fs');
-const path = require('path');
-
-const getFallbackQuestions = () => {
-  const jsonPath = path.join(__dirname, '../../data/questions_cache.json');
-  if (fs.existsSync(jsonPath)) {
-    return JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
-  }
-  return [];
-};
+const { getFallbackQuestions } = require('../../utils/fallback');
 
 // @route   GET /api/papers
 // @desc    Get papers for level
@@ -27,7 +17,7 @@ router.get('/', async (req, res) => {
     }
 
     if (!papers || papers.length === 0) {
-      const allQ = getFallbackQuestions();
+      const allQ = getFallbackQuestions(true);
       const years = [...new Set(allQ.map(q => q.year))];
       papers = years.map(y => ({
         _id: `mock-${y}`,

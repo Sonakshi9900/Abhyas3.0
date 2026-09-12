@@ -29,6 +29,36 @@ function AppContent() {
     }
   });
 
+  // Verify JWT token on application mount
+  useEffect(() => {
+    const token = localStorage.getItem('abhyastre_token');
+    if (token) {
+      fetch('/api/auth/me', {
+        headers: { 'Authorization': `Bearer ${token}` }
+      })
+        .then(res => res.json())
+        .then(data => {
+          if (data.success && data.user) {
+            const verifiedUser = {
+              id: data.user.id,
+              name: data.user.name,
+              email: data.user.email,
+              isLoggedIn: true
+            };
+            setUser(verifiedUser);
+            localStorage.setItem('abhyastre_user', JSON.stringify(verifiedUser));
+          } else {
+            localStorage.removeItem('abhyastre_token');
+            localStorage.removeItem('abhyastre_user');
+            setUser({ isLoggedIn: false });
+          }
+        })
+        .catch(() => {
+          // Keep local state if server temporarily unreachable
+        });
+    }
+  }, []);
+
   const [showAuthPrompt, setShowAuthPrompt] = useState(false);
   const [autoOpenProfileAuth, setAutoOpenProfileAuth] = useState(false);
 
@@ -220,21 +250,36 @@ function AppContent() {
       totalQ: prev.totalQ + attemptSummary.totalQuestions
     }));
 
+    const token = localStorage.getItem('abhyastre_token');
+    const headers = {
+      'Content-Type': 'application/json',
+      ...(token ? { 'Authorization': `Bearer ${token}` } : {})
+    };
+
     fetch('/api/attempts/submit', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers,
       body: JSON.stringify({
         title: attemptSummary.tagLabel,
         level: levelCode,
         mode: attemptSummary.mode,
         answers: attemptSummary.answers.map((ans, idx) => ({
           qNo: attemptSummary.activeQuestions[idx]?.qNo,
-          userOption: ans,
-          correctOption: attemptSummary.activeQuestions[idx]?.correct
+          userOption: ans
         })),
         durationSeconds: attemptSummary.durationSeconds
       })
-    }).catch(err => console.warn('Submit attempt API error:', err));
+    })
+      .then(res => res.json())
+      .then(data => {
+        if (data.success && data.data) {
+          setResultData(prev => ({
+            ...prev,
+            serverEvaluatedAttempt: data.data
+          }));
+        }
+      })
+      .catch(err => console.warn('Submit attempt API error:', err));
   };
 
   const handleOpenReader = (noteId) => {

@@ -37,7 +37,7 @@ const ProfileView = ({ theme, onToggleTheme, userStats, autoOpenAuthModal = fals
 
   const isFormValid = isEmailValid && isPasswordValid && (authMode === 'login' || nameInput.trim().length > 0);
 
-  const handleLoginSubmit = (e) => {
+  const handleLoginSubmit = async (e) => {
     e.preventDefault();
     setAuthError('');
 
@@ -59,26 +59,54 @@ const ProfileView = ({ theme, onToggleTheme, userStats, autoOpenAuthModal = fals
       return;
     }
 
-    const loggedInUser = {
-      name: nameInput.trim() || emailInput.trim().split('@')[0],
-      email: emailInput.trim(),
-      isLoggedIn: true
-    };
+    try {
+      const endpoint = authMode === 'login' ? '/api/auth/login' : '/api/auth/register';
+      const payload = authMode === 'login'
+        ? { email: emailInput.trim(), password: passwordInput }
+        : { name: nameInput.trim() || emailInput.trim().split('@')[0], email: emailInput.trim(), password: passwordInput };
 
-    setUser(loggedInUser);
-    localStorage.setItem('abhyastre_user', JSON.stringify(loggedInUser));
-    if (onUserChange) onUserChange(loggedInUser);
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
 
-    setShowAuthModal(false);
-    setPasswordInput('');
-    setEmailInput('');
-    setNameInput('');
+      const data = await res.json();
+
+      if (!data.success) {
+        setAuthError(data.message || (lang === 'hi' ? 'प्रमाणीकरण विफल रहा।' : 'Authentication failed.'));
+        return;
+      }
+
+      const loggedInUser = {
+        id: data.user.id,
+        name: data.user.name,
+        email: data.user.email,
+        isLoggedIn: true
+      };
+
+      if (data.token) {
+        localStorage.setItem('abhyastre_token', data.token);
+      }
+      localStorage.setItem('abhyastre_user', JSON.stringify(loggedInUser));
+
+      setUser(loggedInUser);
+      if (onUserChange) onUserChange(loggedInUser);
+
+      setShowAuthModal(false);
+      setPasswordInput('');
+      setEmailInput('');
+      setNameInput('');
+    } catch (err) {
+      setAuthError(lang === 'hi' ? 'सर्वर से कनेक्ट करने में त्रुटि।' : 'Failed to connect to authentication server.');
+    }
   };
 
   const handleLogout = () => {
     const loggedOutState = { name: 'Candidate User', email: '', isLoggedIn: false };
     setUser(loggedOutState);
     localStorage.removeItem('abhyastre_user');
+    localStorage.removeItem('abhyastre_token');
     if (onUserChange) onUserChange(loggedOutState);
   };
 

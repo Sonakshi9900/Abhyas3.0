@@ -3,25 +3,16 @@ const router = express.Router();
 const fs = require('fs');
 const path = require('path');
 const Question = require('../../models/Question');
-
-// Helper to get fallback data from cached JSON file if DB unavailable
-const getFallbackQuestions = () => {
-  const jsonPath = path.join(__dirname, '../../data/questions_cache.json');
-  if (fs.existsSync(jsonPath)) {
-    const raw = fs.readFileSync(jsonPath, 'utf-8');
-    return JSON.parse(raw);
-  }
-  return [];
-};
+const { getFallbackQuestions } = require('../../utils/fallback');
 
 // @route   GET /api/questions
-// @desc    Get filtered list of questions
+// @desc    Get filtered list of questions (sanitized without correct answer key or solutions)
 router.get('/', async (req, res) => {
   try {
     const { level, paper, subject, topic, year, limit } = req.query;
     let questions = [];
 
-    // Try MongoDB query first
+    // Try MongoDB query first with answer/solution exclusion
     try {
       const filter = {};
       if (level) filter.levels = level;
@@ -30,7 +21,9 @@ router.get('/', async (req, res) => {
       if (topic && topic !== 'all') filter.topic = topic;
       if (year) filter.year = parseInt(year);
 
-      let query = Question.find(filter).sort({ numId: 1 });
+      let query = Question.find(filter)
+        .select('-en.sol -hi.sol -correct -originalCorrectChar')
+        .sort({ numId: 1 });
       if (limit) query = query.limit(parseInt(limit));
 
       questions = await query.exec();
@@ -39,9 +32,9 @@ router.get('/', async (req, res) => {
       questions = [];
     }
 
-    // Fallback to JSON cache if Mongo returned no records or errored
+    // Fallback to JSON cache if Mongo returned no records or errored (sanitized = true)
     if (!questions || questions.length === 0) {
-      let cached = getFallbackQuestions();
+      let cached = getFallbackQuestions(true); // Strip correct answers and solutions
       if (level) cached = cached.filter(q => q.levels && q.levels.includes(level));
       if (paper) cached = cached.filter(q => q.paper === paper);
       if (subject) cached = cached.filter(q => q.subject === subject);
@@ -75,7 +68,7 @@ router.get('/subjects', async (req, res) => {
     }
 
     if (!allQ || allQ.length === 0) {
-      allQ = getFallbackQuestions();
+      allQ = getFallbackQuestions(true);
       if (level) allQ = allQ.filter(q => q.levels && q.levels.includes(level));
     }
 

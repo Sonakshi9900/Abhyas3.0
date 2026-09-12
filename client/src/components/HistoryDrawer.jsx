@@ -8,7 +8,10 @@ const HistoryDrawer = ({ isOpen, onClose }) => {
 
   useEffect(() => {
     if (isOpen) {
-      fetch('/api/attempts/history')
+      const token = localStorage.getItem('abhyastre_token');
+      const headers = token ? { 'Authorization': `Bearer ${token}` } : {};
+
+      fetch('/api/attempts/history', { headers })
         .then(res => res.json())
         .then(data => {
           if (data.success && data.data) {
