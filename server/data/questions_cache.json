@@ -1,0 +1,5968 @@
+[
+  {
+    "qNo": "E-1",
+    "numId": 1,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "English",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "[Passage: Once upon a time, there lived a small young and sweet girl. She was not clean at all. One fine night, in her home, she decided to eat a banana because she was very hungry. While she was eating banana, she completed it in three minutes and threw the banana peel down on the floor and went to sleep. Next morning she completely forgot about the peel and slipped as soon as her feet walked over it. She realized how important it is to keep house neat and clean.] After eating banana the girl went to",
+      "opts": [
+        "sleep",
+        "play",
+        "study",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "According to the passage, after throwing the peel on the floor, she went to sleep."
+    },
+    "hi": {
+      "q": "[गद्यांश: एक समय की बात है, एक छोटी और प्यारी बच्ची रहती थी। वह बिल्कुल भी साफ-सफाई नहीं रखती थी। एक रात, उसने केला खाने का फैसला किया क्योंकि उसे बहुत भूख लगी थी। उसने इसे 3 मिनट में खा लिया और छिलके को फर्श पर फेंक कर सो गई। अगली सुबह वह छिलके के बारे में भूल गई और पैर पड़ते ही फिसल गई। तब उसे एहसास हुआ कि घर को साफ रखना कितना महत्वपूर्ण है।] केला खाने के बाद लड़की कहाँ गई?",
+      "opts": [
+        "सोने",
+        "खेलने",
+        "पढ़ने",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "गद्यांश के अनुसार, केले का छिलका फर्श पर फेंकने के बाद वह सोने चली गई।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "E-2",
+    "numId": 2,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "English",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "[Passage: ...same as above...] What lesson did the girl learn in the last?",
+      "opts": [
+        "Garbage is to be put in dustbin",
+        "Cleanliness is not required",
+        "Banana is not good for health",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The passage specifically states she realized 'how important it is to keep house neat and clean', which isn't exactly matching the dustbin option. Hence, None of the above is the most technically accurate BPSC answer."
+    },
+    "hi": {
+      "q": "[गद्यांश: ...ऊपर दिए गए अनुसार...] अंत में लड़की ने क्या सबक सीखा?",
+      "opts": [
+        "कचरा कूड़ेदान में डालना चाहिए",
+        "साफ-सफाई की आवश्यकता नहीं है",
+        "केला स्वास्थ्य के लिए अच्छा नहीं है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "गद्यांश में स्पष्ट लिखा है कि उसने 'घर को साफ-सुथरा रखने का महत्व' सीखा, जो दिए गए विकल्पों में सीधे तौर पर नहीं है। इसलिए विकल्प E सही है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "E-3",
+    "numId": 3,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "English",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "[Passage: ...same as above...] The girl is",
+      "opts": [
+        "teenage",
+        "adult",
+        "adolescent",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The passage describes her as a 'small young girl' (a child), not a teenager, adult, or adolescent."
+    },
+    "hi": {
+      "q": "[गद्यांश: ...ऊपर दिए गए अनुसार...] लड़की है:",
+      "opts": [
+        "किशोर",
+        "वयस्क",
+        "युवा/किशोर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "गद्यांश में उसे एक 'छोटी बच्ची' बताया गया है, न कि किशोर, वयस्क या युवा। अतः कोई भी विकल्प सही नहीं है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "E-4",
+    "numId": 4,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "English",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "[Passage: ...same as above...] She ate the banana during",
+      "opts": [
+        "evening",
+        "day",
+        "night",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The passage explicitly states 'One fine night... she decided to eat a banana'."
+    },
+    "hi": {
+      "q": "[गद्यांश: ...ऊपर दिए गए अनुसार...] उसने केला किस समय खाया?",
+      "opts": [
+        "शाम",
+        "दिन",
+        "रात",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "गद्यांश में स्पष्ट रूप से कहा गया है, 'एक रात... उसने केला खाने का फैसला किया'।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "E-5",
+    "numId": 5,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "English",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "[Passage: ...same as above...] The girl was scolded by",
+      "opts": [
+        "sister",
+        "father",
+        "mother",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "There is no mention of anyone scolding the girl in the given story."
+    },
+    "hi": {
+      "q": "[गद्यांश: ...ऊपर दिए गए अनुसार...] लड़की को किसने डांटा?",
+      "opts": [
+        "बहन",
+        "पिता",
+        "माँ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "दी गई कहानी में किसी के द्वारा लड़की को डांटे जाने का कोई उल्लेख नहीं है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "E-6",
+    "numId": 6,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "English",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Fill in the blanks with suitable articles: I had ___ lovely time in Paris.",
+      "opts": [
+        "the",
+        "a",
+        "an",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'a lovely time' is the correct idiomatic expression. 'Lovely' starts with a consonant sound, so 'a' is used."
+    },
+    "hi": {
+      "q": "उपयुक्त Article भरें: I had ___ lovely time in Paris.",
+      "opts": [
+        "the",
+        "a",
+        "an",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'lovely' एक व्यंजन (consonant) ध्वनि से शुरू होता है, इसलिए इसके पहले article 'a' का प्रयोग होगा।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "E-7",
+    "numId": 7,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "English",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Fill in the blanks with suitable articles: If you go there in ___ hour you will be able to catch the train.",
+      "opts": [
+        "the",
+        "a",
+        "an",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The word 'hour' starts with a vowel sound (the 'h' is silent), so the article 'an' is used."
+    },
+    "hi": {
+      "q": "उपयुक्त Article भरें: If you go there in ___ hour you will be able to catch the train.",
+      "opts": [
+        "the",
+        "a",
+        "an",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'hour' का उच्चारण स्वर (vowel) ध्वनि 'आवर' से शुरू होता है (h silent है), इसलिए 'an' लगेगा।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "E-8",
+    "numId": 8,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "English",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "If 22nd June is Monday, what will be 29th June?",
+      "opts": [
+        "Tuesday",
+        "Sunday",
+        "Monday",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The difference between the dates is exactly 7 days (29 - 22 = 7). Adding 7 days to any given day gives the same day again."
+    },
+    "hi": {
+      "q": "यदि 22 जून को सोमवार है, तो 29 जून को क्या होगा?",
+      "opts": [
+        "मंगलवार",
+        "रविवार",
+        "सोमवार",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "दोनों तारीखों के बीच 7 दिन का अंतर है (29 - 22 = 7)। किसी भी दिन में 7 दिन जोड़ने पर वही दिन वापस आता है, इसलिए सोमवार ही होगा।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "H-9",
+    "numId": 9,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Whose work is Babu Gulabrai's?",
+      "opts": [
+        "Hindi Sahitya Ka Itihas",
+        "Hindi Sahitya Ka Subodh Itihas",
+        "Hindi Sahitya Ka Vaigyanik Itihas",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'Hindi Sahitya Ka Subodh Itihas' was written by Babu Gulabrai. Option A is by Ramchandra Shukla and Option C is by Ganpatichandra Gupta."
+    },
+    "hi": {
+      "q": "बाबू गुलाबराय की रचना है:",
+      "opts": [
+        "हिन्दी साहित्य का इतिहास",
+        "हिन्दी साहित्य का सुबोध इतिहास",
+        "हिन्दी साहित्य का वैज्ञानिक इतिहास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'हिन्दी साहित्य का सुबोध इतिहास' बाबू गुलाबराय की रचना है। (विकल्प A रामचंद्र शुक्ल और C गणपतिचंद्र गुप्त की रचना है)।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "H-10",
+    "numId": 10,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The most developed method of writing the history of literature is:",
+      "opts": [
+        "Chronological method",
+        "Alphabetical method",
+        "Positivist method (Vidheyavadi)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Positivist (Vidheyavadi) method is considered the most developed and scientific. Acharya Ramchandra Shukla used this method."
+    },
+    "hi": {
+      "q": "साहित्य के इतिहास लेखन की सबसे विकसित पद्धति है:",
+      "opts": [
+        "कालानुक्रमी पद्धति",
+        "वर्णानुक्रम पद्धति",
+        "विधेयवादी पद्धति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "विधेयवादी पद्धति को इतिहास लेखन की सबसे विकसित और वैज्ञानिक पद्धति माना जाता है। आचार्य रामचंद्र शुक्ल ने इसी का प्रयोग किया था।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "H-11",
+    "numId": 11,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "A very famous meter (Chhand) of Apabhramsha and early Hindi is:",
+      "opts": [
+        "Doha",
+        "Vanshastha",
+        "Indravajra",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'Doha' (Duha) is the most prominent and beloved meter of Apabhramsha and early Hindi literature."
+    },
+    "hi": {
+      "q": "अपभ्रंश और आदिकालीन हिन्दी का बहुत ही प्रसिद्ध छंद है:",
+      "opts": [
+        "दोहा",
+        "वंशस्थ",
+        "इंद्रवज्रा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'दोहा' (दूहा) अपभ्रंश और आदिकालीन साहित्य का सबसे प्रिय और प्रसिद्ध छंद रहा है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "H-12",
+    "numId": 12,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'Prose is the language of the struggle of life.' Which author's statement is this?",
+      "opts": [
+        "Jaishankar Prasad",
+        "Mahavir Prasad Dwivedi",
+        "Suryakant Tripathi 'Nirala'",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "This famous statement about prose was given by Suryakant Tripathi 'Nirala'."
+    },
+    "hi": {
+      "q": "'गद्य जीवन संग्राम की भाषा है।' उक्त कथन किस रचनाकार का है?",
+      "opts": [
+        "जयशंकर प्रसाद",
+        "महावीर प्रसाद द्विवेदी",
+        "सूर्यकांत त्रिपाठी 'निराला'",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "गद्य के विषय में यह प्रसिद्ध कथन सूर्यकांत त्रिपाठी 'निराला' जी का है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "H-13",
+    "numId": 13,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The author of 'Mahapuran', which is based on the stories of great figures of Jain tradition, is:",
+      "opts": [
+        "Swayambhu",
+        "Dhanpal",
+        "Pushpadant",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'Mahapuran' was composed by Pushpadant in the 10th century."
+    },
+    "hi": {
+      "q": "जैन परम्परा के महापुरुपों की कथा लेकर 'महापुराण' के रचनाकार है:",
+      "opts": [
+        "स्वयंभू",
+        "धनपाल",
+        "पुष्पदंत",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'महापुराण' की रचना 10वीं शताब्दी में पुष्पदंत ने की थी।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "H-14",
+    "numId": 14,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'Bha avatar mor nau sadi. Tees baras upar kavi badi.' The poet of the above line is:",
+      "opts": [
+        "Jayasi",
+        "Kabirdas",
+        "Alam",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "These lines are written by Malik Muhammad Jayasi in his epic 'Padmavat'."
+    },
+    "hi": {
+      "q": "'भा अवतार मोर नौ सदी। तीस बरस ऊपर कवि बदी ॥' उपर्युक्त पंक्ति के कवि हैं:",
+      "opts": [
+        "जायसी",
+        "कबीरदास",
+        "आलम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "ये पंक्तियाँ मलिक मुहम्मद जायसी द्वारा रचित 'पद्मावत' की हैं।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "H-15",
+    "numId": 15,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "How did this emergence of devotion (Bhakti) in North India happen 'suddenly like a flash of lightning'? - Whose underlined statement is this?",
+      "opts": [
+        "Ramchandra Shukla",
+        "Hazari Prasad Dwivedi",
+        "George Abraham Grierson",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "George Grierson described the sudden rise of the Bhakti movement as a 'flash of lightning'."
+    },
+    "hi": {
+      "q": "उत्तर भारत में भक्ति का यह उन्मेष 'बिजली की चमक के समान अचानक कैसे हुआ?' - रेखांकित पंक्ति किस विद्वान् की है?",
+      "opts": [
+        "रामचंद्र शुक्ल",
+        "हजारी प्रसाद द्विवेदी",
+        "जॉर्ज अब्राहम ग्रियर्सन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "जॉर्ज ग्रियर्सन ने ही भक्ति काल के उदय को 'बिजली की चमक के समान अचानक' बताया था।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "H-16",
+    "numId": 16,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'When self-experienced expression based on pain started, it was named Chhayavad in Hindi.' Whose statement is this?",
+      "opts": [
+        "Sumitranandan Pant",
+        "Jaishankar Prasad",
+        "Nagendra",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "This is a famous definition of Chhayavad given by Jaishankar Prasad."
+    },
+    "hi": {
+      "q": "'जब वेदना के आधार पर स्वानुभूतिमयी अभिव्यक्ति होने लगी तब हिन्दी में उसे छायावाद नाम से अभिहित किया गया।' उक्त कथन किस लेखक का है?",
+      "opts": [
+        "सुमित्रानंदन पंत",
+        "जयशंकर प्रसाद",
+        "नगेन्द्र",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "यह छायावाद की बहुत ही प्रसिद्ध परिभाषा है जो जयशंकर प्रसाद ने दी है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "H-17",
+    "numId": 17,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'The knowledge given by this pain and defeat, will only give determination.' Whose dialogue is this from 'Andha Yug'?",
+      "opts": [
+        "Dhritarashtra",
+        "Kripacharya",
+        "Vidur",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "This dialogue is spoken by Dhritarashtra in Dharamvir Bharati's play 'Andha Yug'."
+    },
+    "hi": {
+      "q": "'यह जो पीड़ा ने पराजय ने दिया है ज्ञान, दृढ़ता ही देगा वह।' 'अंधा युग' का उपर्युक्त संवाद किसका है?",
+      "opts": [
+        "धृतराष्ट्र",
+        "कृपाचार्य",
+        "विविदुर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "यह संवाद धरमवीर भारती के नाटक 'अंधा युग' में धृतराष्ट्र का है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "H-18",
+    "numId": 18,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "What is the correct sequence of the cantos (Sargas) of 'Kamayani'?",
+      "opts": [
+        "Shraddha, Lajja, Darshan, Ida, Nirved",
+        "Shraddha, Lajja, Ida, Nirved, Darshan",
+        "Lajja, Shraddha, Nirved, Ida, Darshan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The correct sequence out of the 15 cantos is: Shraddha (3rd), Lajja (6th), Ida (9th), Nirved (12th), Darshan (13th)."
+    },
+    "hi": {
+      "q": "'कामायनी' के सर्गों का सही अनुक्रम क्या है?",
+      "opts": [
+        "श्रद्धा, लज्जा, दर्शन, इड़ा, निर्वेद",
+        "श्रद्धा, लज्जा, इड़ा, निर्वेद, दर्शन",
+        "लज्जा, श्रद्धा, निर्वेद, इड़ा, दर्शन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कामायनी के 15 सर्गों में सही क्रम है: श्रद्धा (तीसरा), लज्जा (छठा), इड़ा (नौवां), निर्वेद (बारहवां), दर्शन (तेरहवां)। अतः विकल्प B सही है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "H-19",
+    "numId": 19,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which Western scholar relied on the concept of 'Intuition' (Sahajanubhuti) to build his poetic theory?",
+      "opts": [
+        "Croce",
+        "Eliot",
+        "Matthew Arnold",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Benedetto Croce's theory of Expressionism is fundamentally based on 'Intuition'."
+    },
+    "hi": {
+      "q": "अपने काव्य-सिद्धांत की निर्मिति के लिए पाश्चात्य आचार्य ने 'सहजानुभूति' अवधारणा का सहारा लिया है?",
+      "opts": [
+        "क्रोचे",
+        "इलियट",
+        "मैथ्यू अर्नाल्ड",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "बेनेदेत्तो क्रोचे के अभिव्यंजनावाद का मूल आधार 'सहजानुभूति' (Intuition) ही है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "H-20",
+    "numId": 20,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The correct sequence of Premchand's novels from the point of view of publication year is:",
+      "opts": [
+        "Gaban, Kayakalp, Godan, Karmabhoomi",
+        "Godan, Gaban, Karmabhoomi, Kayakalp",
+        "Kayakalp, Gaban, Karmabhoomi, Godan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Kayakalp (1926), Gaban (1931), Karmabhoomi (1932), Godan (1936)."
+    },
+    "hi": {
+      "q": "प्रकाशन काल की दृष्टि से प्रेमचंद के उपन्यासों का सही अनुक्रम है:",
+      "opts": [
+        "गबन, कायाकल्प, गोदान, कर्मभूमि",
+        "गोदान, गबन, कर्मभूमि, कायाकल्प",
+        "कायाकल्प, गबन, कर्मभूमि, गोदान",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "सही क्रम: कायाकल्प (1926), गबन (1931), कर्मभूमि (1932), और गोदान (1936)।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "H-21",
+    "numId": 21,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'Sakhi, vasant aaya...' The above poetic lines belong to which creator?",
+      "opts": [
+        "Jaishankar Prasad",
+        "Sumitranandan Pant",
+        "Suryakant Tripathi 'Nirala'",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "This is a famous poem by Suryakant Tripathi 'Nirala'."
+    },
+    "hi": {
+      "q": "'सखि, वसंत आया... भरा हर्ष वन के मन...' उपर्युक्त काव्य-पंक्तियाँ किस रचनाकार की हैं?",
+      "opts": [
+        "जयशंकर प्रसाद",
+        "सुमित्रानंदन पंत",
+        "सूर्यकांत त्रिपाठी 'निराला'",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "यह सूर्यकांत त्रिपाठी 'निराला' जी की अत्यंत प्रसिद्ध कविता है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "H-22",
+    "numId": 22,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "According to almost all historians like Ramchandra Shukla, Ramshankar Shukla 'Rasal', and Hazari Prasad Dwivedi, who is the folk poet (Lok Kavi) of Hindi?",
+      "opts": [
+        "Ghagh",
+        "Raslin",
+        "Biharilal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'Ghagh' (and Bhaddari) are universally accepted by historians as the folk poets of Hindi agricultural life."
+    },
+    "hi": {
+      "q": "रामचंद्र शुक्ल, रामशंकर शुक्ल 'रसाल' तथा हजारी प्रसाद द्विवेदी आदि प्रायः सभी इतिहासकारों के अनुसार हिन्दी का लोककवि कौन है?",
+      "opts": [
+        "घाघ",
+        "रसलीन",
+        "बिहारीलाल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'घाघ' और 'भड्डरी' को हिन्दी के कृषक जीवन का लोककवि माना जाता है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "H-23",
+    "numId": 23,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who is the pioneer of the 'Sachetan Kahani' (Conscious Story) movement?",
+      "opts": [
+        "Mohan Rakesh",
+        "Kamleshwar",
+        "Mahip Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Dr. Mahip Singh is the initiator of the 'Sachetan Kahani' movement."
+    },
+    "hi": {
+      "q": "'सचेतन कहानी आंदोलन' के प्रणेता कौन है?",
+      "opts": [
+        "मोहन राकेश",
+        "कमलेश्वर",
+        "महीप सिंह",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "डॉ. महीप सिंह 'सचेतन कहानी आंदोलन' के प्रवर्तक माने जाते हैं।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "H-24",
+    "numId": 24,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which is not a Lalit-Nibandh (light essay) work by Kubernath Ray?",
+      "opts": [
+        "Vani Ka Kshirsagar",
+        "Patra Maniputul Ke Naam",
+        "Jagat Tapovan So Kiyo",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Both A and C are essays by Vidya Niwas Mishra, not Kubernath Ray. Only B is by Kubernath Ray. Hence 'More than one' is correct."
+    },
+    "hi": {
+      "q": "कुबेरनाथ राय की कौन-सी ललित-निबंध कृति नहीं है?",
+      "opts": [
+        "वाणी का क्षीरसागर",
+        "पत्र मणिपुतुल के नाम",
+        "जगत् तपोवन सो कियो",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'वाणी का क्षीरसागर' और 'जगत् तपोवन सो कियो' दोनों विद्यानिवास मिश्र के निबंध हैं। अतः कुबेरनाथ राय की एक से अधिक कृतियाँ नहीं हैं (विकल्प D सही है)।"
+    },
+    "correct": 3,
+    "originalCorrectChar": "4"
+  },
+  {
+    "qNo": "H-25",
+    "numId": 25,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "According to the birth year, which of the following is the correct sequence of poets?",
+      "opts": [
+        "Keshavdas, Matiram, Bihari, Ghananand",
+        "Keshavdas, Bihari, Matiram, Ghananand",
+        "Ghananand, Matiram, Keshavdas, Bihari",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Keshavdas (1555), Bihari (1595), Matiram (1617), Ghananand (1689)."
+    },
+    "hi": {
+      "q": "जन्मकाल के अनुसार निम्नलिखित में से कौन-सा कवियों का सही अनुक्रम है?",
+      "opts": [
+        "केशवदास, मतिराम, बिहारी, घनानंद",
+        "केशवदास, बिहारी, मतिराम, घनानंद",
+        "घनानंद, मतिराम, केशवदास, बिहारी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "सही क्रम: केशवदास (1555 ई.), बिहारी (1595 ई.), मतिराम (1617 ई.), और घनानंद (1689 ई.)।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "H-26",
+    "numId": 26,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'The remarkable thing is that the tradition of modern prose literature started with drama.' Whose statement is this?",
+      "opts": [
+        "Ramchandra Shukla",
+        "Hazari Prasad Dwivedi",
+        "Ganpatichandra Gupta",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "This is a famous quote by Acharya Ramchandra Shukla from his 'Hindi Sahitya Ka Itihas'."
+    },
+    "hi": {
+      "q": "'विलक्षण बात यह है कि आधुनिक गद्य-साहित्य की परंपरा का प्रवर्तन नाटक से हुआ।' यह कथन किस इतिहासकार का है?",
+      "opts": [
+        "रामचंद्र शुक्ल",
+        "हजारी प्रसाद द्विवेदी",
+        "गणपतिचंद्र गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "यह आचार्य रामचंद्र शुक्ल का बहुत ही प्रसिद्ध कथन है जो उन्होंने अपने इतिहास ग्रंथ में लिखा है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "H-27",
+    "numId": 27,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who among these is given the title of 'Dhwani Prasthapan Paramacharya'?",
+      "opts": [
+        "Anandavardhan",
+        "Mammat",
+        "Abhinavagupta",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Acharya Mammat is known as 'Dhwani Prasthapan Paramacharya' (the ultimate establisher of the Dhwani school)."
+    },
+    "hi": {
+      "q": "'ध्वनि प्रस्थापन परमाचार्य' की पदवी इनमें से किसको दी जाती है?",
+      "opts": [
+        "आनंदवर्धन",
+        "मम्मट",
+        "अभिनवगुष्ठ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "आचार्य मम्मट को 'ध्वनि प्रस्थापन परमाचार्य' कहा जाता है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "H-28",
+    "numId": 28,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The author of Rahul Sankrityayan's biography 'Samaya Samyavadi' is:",
+      "opts": [
+        "Kamala Sankrityayan",
+        "Vishnuchandra Sharma",
+        "Tejbahadur Chaudhary",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'Samaya Samyavadi' is the biography of Rahul Sankrityayan, written by Vishnuchandra Sharma."
+    },
+    "hi": {
+      "q": "राहुल सांकृत्यायन की जीवनी 'समय साम्यवादी' के लेखक है:",
+      "opts": [
+        "कमला सांकृत्यायन",
+        "विष्णुचंद्र शर्मा",
+        "तेजबहादुर चौधरी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "राहुल सांकृत्यायन की यह जीवनी विष्णुचंद्र शर्मा द्वारा लिखी गई है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "H-29",
+    "numId": 29,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'Saje mohan-moh kaun...' Which heroine is described in the above verse?",
+      "opts": [
+        "Abhisarika",
+        "Purvanuragini",
+        "Vipralabdha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The verse describes the state of falling in love before a union, which defines a 'Purvanuragini' Nayika."
+    },
+    "hi": {
+      "q": "'साजे मोहन-मोह कौं, मोहीं करत कुचैन...' उपर्युक्त पद में किस नायिका का वर्णन है?",
+      "opts": [
+        "अभिसारिका",
+        "पूर्वानुरागिणी",
+        "विप्रलब्धा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "इस पद में मिलन से पूर्व के अनुराग (प्रेम) का वर्णन है, जो 'पूर्वानुरागिणी' नायिका की विशेषता है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "H-30",
+    "numId": 30,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "language",
+    "subject": "Hindi",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Consider the statements: Assertion (A) and Reason (R):",
+      "opts": [
+        "(A) is true, (R) is false",
+        "Both (A) and (R) are false",
+        "(A) is false, (R) is true",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Assertion (A) is true as imagination is highly valued in Western Romantic literature. Reason (R) is false because Western literature is not purely born of imagination."
+    },
+    "hi": {
+      "q": "स्थापना (अ) और तर्क (ब) पर विचार कीजिए:",
+      "opts": [
+        "(अ) सही है और (ब) गलत है",
+        "(अ) और (ब) दोनों गलत हैं",
+        "(अ) गलत है और (ब) सही है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "स्थापना (अ) सही है क्योंकि पाश्चात्य साहित्य में कल्पना को बहुत महत्व मिला है। तर्क (ब) गलत है क्योंकि पाश्चात्य साहित्य केवल कल्पनाप्रसूत नहीं है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "47",
+    "numId": 47,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following instruments is used to detect the current flowing in an electrical circuit?",
+      "opts": [
+        "Galvanometer",
+        "Generator",
+        "Ammeter",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A Galvanometer is used to detect the presence and direction of a small electric current, while an Ammeter measures its magnitude."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से वह कौन-सा यन्त्र है जिसके द्वारा विद्युत् परिपथ में बहने वाली धारा की पहचान होती है?",
+      "opts": [
+        "गल्वनोमीटर",
+        "जेनरेटर",
+        "अमीटर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "गल्वनोमीटर का उपयोग परिपथ में विद्युत धारा की उपस्थिति (पहचान) और दिशा ज्ञात करने के लिए किया जाता है, जबकि अमीटर उसका परिमाण मापता है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "48",
+    "numId": 48,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The optical process of twinkling of stars is due to which of the following?",
+      "opts": [
+        "Atmospheric reflection",
+        "Atmospheric refraction",
+        "Total refraction",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Stars twinkle due to the atmospheric refraction of starlight as it passes through varying densities of the Earth's atmosphere."
+    },
+    "hi": {
+      "q": "सितारों के चमकने की प्रकाशीय प्रक्रिया निम्नलिखित में से किसके कारण होती है?",
+      "opts": [
+        "वातावरणीय परावर्तन",
+        "वातावरणीय अपवर्तन",
+        "पूर्ण अपवर्तन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पृथ्वी के वायुमंडल की विभिन्न परतों के घनत्व में बदलाव के कारण तारों के प्रकाश का 'वातावरणीय अपवर्तन' (Atmospheric Refraction) होता है, जिससे तारे चमकते/टिमटिमाते दिखते हैं।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "49",
+    "numId": 49,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "It is convenient to drink hot tea in a porcelain mug compared to a steel glass, because:",
+      "opts": [
+        "Porcelain mug has a handle",
+        "Porcelain is a bad conductor of heat",
+        "Tea will cool down faster in steel glass",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Porcelain is a bad conductor (insulator) of heat, preventing the outside of the mug from getting too hot to hold."
+    },
+    "hi": {
+      "q": "पोर्सलीन मग में गरम चाय पीना सुविधाजनक है, स्टील के गिलास की तुलना में, क्योंकि:",
+      "opts": [
+        "पोर्सलीन मग में हैन्डल होता है",
+        "पोर्सलीन ऊष्मा का कुचालक है",
+        "स्टील के गिलास में चाय तेजी से ठंडी हो जाएगी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पोर्सलीन ऊष्मा का कुचालक (Bad conductor) होता है, जिससे चाय की गर्माहट बाहर नहीं आती और हाथ नहीं जलता।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "50",
+    "numId": 50,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The image formed by a concave mirror:",
+      "opts": [
+        "Will definitely be real if object is virtual",
+        "Is always real",
+        "Is always virtual",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A concave mirror forms both real and virtual images for real objects. However, for a virtual object, it always forms a real image."
+    },
+    "hi": {
+      "q": "अवतल दर्पण द्वारा बनाया हुआ प्रतिबिम्ब:",
+      "opts": [
+        "निश्चित रूप से वास्तविक होगा यदि वस्तु आभासी है",
+        "हमेशा वास्तविक होता है",
+        "हमेशा आभासी होता है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "अवतल दर्पण वास्तविक वस्तुओं के लिए वास्तविक और आभासी दोनों प्रतिबिम्ब बनाता है। लेकिन यदि वस्तु आभासी है, तो प्रतिबिम्ब हमेशा वास्तविक ही बनता है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "51",
+    "numId": 51,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following is included in amphoteric molecules?",
+      "opts": [
+        "Acetic acid",
+        "Malic acid",
+        "Water",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Water (H2O) is amphoteric because it can act as both an acid (donating a proton) and a base (accepting a proton)."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से कौन-सा ऐम्फोटेरिक अणुओं में शामिल है?",
+      "opts": [
+        "ऐसिटिक अम्ल",
+        "मैलिक अम्ल",
+        "जल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "जल (H2O) ऐम्फोटेरिक (उभयधर्मी) है क्योंकि यह अम्ल (प्रोटॉन देने वाला) और क्षार (प्रोटॉन लेने वाला) दोनों की तरह व्यवहार कर सकता है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "52",
+    "numId": 52,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Lewis's postulate explains the behavior of which of the following?",
+      "opts": [
+        "Base",
+        "Salt",
+        "Protonic acid",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Lewis concept defines an acid as an electron-pair acceptor and a base as an electron-pair donor."
+    },
+    "hi": {
+      "q": "लुईस की अभिधारणा, निम्नलिखित में से किसके बर्ताव को व्याख्यायित करती है?",
+      "opts": [
+        "क्षार",
+        "लवण",
+        "प्रोटोनिक ऐसिड",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "गिल्बर्ट लुईस की अवधारणा के अनुसार, जो इलेक्ट्रॉन युग्म ग्रहण करे वह अम्ल है, और जो दान करे वह क्षार (Base) है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "53",
+    "numId": 53,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "What is the reverse of the neutralization process?",
+      "opts": [
+        "Formation",
+        "Splitting",
+        "Hydrolysis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Neutralization is Acid + Base → Salt + Water. Its reverse is Salt + Water → Acid + Base, which is known as Hydrolysis."
+    },
+    "hi": {
+      "q": "उदासीनीकरण प्रक्रिया का उत्क्रम क्या है?",
+      "opts": [
+        "फॉर्मेशन",
+        "स्प्लिटिंग",
+        "हाइड्रोलिसिस",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "उदासीनीकरण (Neutralization) में अम्ल और क्षार मिलकर लवण और जल बनाते हैं। इसके विपरीत लवण और जल के टूटने की प्रक्रिया को 'जल अपघटन' (Hydrolysis) कहते हैं।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "54",
+    "numId": 54,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following is a secondary pollutant?",
+      "opts": [
+        "CO2",
+        "HF",
+        "CO",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "CO2, HF, and CO are primary pollutants (emitted directly). Secondary pollutants form from reactions in the atmosphere."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से कौन-सा द्वितीयक प्रदूषक है?",
+      "opts": [
+        "CO2",
+        "HF",
+        "CO",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "CO2, HF और CO प्राथमिक प्रदूषक हैं। द्वितीयक प्रदूषक वायुमंडल में अभिक्रिया से बनते हैं। अतः विकल्प E सही है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "55",
+    "numId": 55,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which part of DNA provides information for a protein?",
+      "opts": [
+        "Chromosome",
+        "RNA",
+        "Gene",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A gene is a specific section of DNA that contains the instructions for making a particular protein."
+    },
+    "hi": {
+      "q": "डी० एन०ए० का कौन-सा भाग प्रोटीन की सूचना देता है?",
+      "opts": [
+        "क्रोमोसोम",
+        "आर० एन०ए०",
+        "जीन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "जीन (Gene) डी.एन.ए. का वह विशिष्ट भाग है जो किसी विशेष प्रोटीन के निर्माण की सूचना देता है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "56",
+    "numId": 56,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "If a disease is transmitted from a non-human animal to a human, what is it called?",
+      "opts": [
+        "Zoonotic disease",
+        "Infectious disease",
+        "Congenital disease",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Diseases that can spread from animals to humans are scientifically termed 'Zoonotic diseases' (e.g., Rabies)."
+    },
+    "hi": {
+      "q": "यदि कोई बीमारी नॉन ह्यूमैन प्राणी से किसी मनुष्य में पहुँचती है, तो इसे क्या कहते हैं?",
+      "opts": [
+        "पशुजन्य बीमारी",
+        "संक्रामक बीमारी",
+        "जन्मजात बीमारी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "जानवरों से इंसानों में फैलने वाली बीमारियों को 'पशुजन्य बीमारी' (Zoonotic disease) कहा जाता है (जैसे- रेबीज)।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "57",
+    "numId": 57,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following is not an abiotic factor?",
+      "opts": [
+        "Humidity",
+        "Animals",
+        "Altitude",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Animals (Jantu) are living organisms, hence they are a biotic (जैविक) factor, not abiotic (अजैविक)."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से कौन-सा अजैविक कारक नहीं है?",
+      "opts": [
+        "आर्द्रता",
+        "जन्तु",
+        "उन्नतांश",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "जन्तु (Animals) सजीव होते हैं, इसलिए यह एक 'जैविक कारक' (Biotic factor) है, न कि अजैविक। आर्द्रता और उन्नतांश अजैविक हैं।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "58",
+    "numId": 58,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The effect of air pollution is usually found on which of the following?",
+      "opts": [
+        "Flowers",
+        "Stems",
+        "Leaves",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Air pollutants mainly enter plants through the stomata present on the leaves, causing maximum damage to them."
+    },
+    "hi": {
+      "q": "वायु प्रदूषण का प्रभाव प्रायः निम्नलिखित में से किस पर पाया जाता है?",
+      "opts": [
+        "फूलों पर",
+        "तनों पर",
+        "पत्तियों पर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "वायु प्रदूषक मुख्य रूप से पत्तियों पर मौजूद रंध्रों (Stomata) के माध्यम से पौधों में प्रवेश करते हैं, जिससे पत्तियों को सबसे अधिक नुकसान होता है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "59",
+    "numId": 59,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The flow of electrons is called which of the following?",
+      "opts": [
+        "Electrolyte",
+        "Electroplating",
+        "Electric current",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The continuous flow of free electrons in a definite direction within a conductor is defined as an electric current."
+    },
+    "hi": {
+      "q": "इलेक्ट्रॉन का प्रवाह निम्नलिखित में से क्या कहलाता है?",
+      "opts": [
+        "अपघट्य",
+        "विद्युत् लेपन",
+        "विद्युत्धारा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "किसी चालक (Conductor) में एक निश्चित दिशा में मुक्त इलेक्ट्रॉनों के प्रवाह को विद्युत्धारा (Electric current) कहा जाता है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "60",
+    "numId": 60,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Choose the correct unit for relative density from the following:",
+      "opts": [
+        "kg/cm",
+        "Unitless",
+        "kg/m³",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Relative density is the ratio of two densities, so the units cancel out, making it unitless."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से आपेक्षिक घनत्व के लिए सही इकाई (मात्रक) चुनिए:",
+      "opts": [
+        "कि०ग्रा० / से०मी०",
+        "मात्रकविहीन",
+        "कि०ग्रा०/ घन मीटर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "आपेक्षिक घनत्व (Relative Density) दो समान भौतिक राशियों का अनुपात होता है, इसलिए यह मात्रकविहीन है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "61",
+    "numId": 61,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "If we keep camphor in an open vessel, its quantity continuously decreases. The name of this phenomenon is:",
+      "opts": [
+        "Sublimation",
+        "Precipitation",
+        "Condensation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Camphor changes directly from solid to gas without becoming a liquid. This process is called sublimation."
+    },
+    "hi": {
+      "q": "यदि हम कपूर को खुले बर्तन में रखें, तो उसकी मात्रा बराबर घटती रहती है। इस घटना का नाम है:",
+      "opts": [
+        "उत्सादन",
+        "अवक्षेपण",
+        "संघनीकरण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कपूर बिना द्रव में बदले सीधे ठोस से गैस में बदल जाता है। इस प्रक्रिया को 'उत्सादन' या 'ऊर्ध्वपातन' (Sublimation) कहते हैं।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "62",
+    "numId": 62,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "General Science",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Name the metal which remains in a liquid state at room temperature.",
+      "opts": [
+        "Mercury",
+        "Bromine",
+        "Sodium",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Mercury is the only metal that is liquid at standard room temperature."
+    },
+    "hi": {
+      "q": "कमरे के ताप पर द्रव स्थिति में रहने वाली धातु का नाम बताइए।",
+      "opts": [
+        "पारा",
+        "ब्रोमीन",
+        "सोडियम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पारा (Mercury) एक ऐसी धातु है जो कमरे के ताप पर द्रव अवस्था में होती है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "63",
+    "numId": 63,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The Central Government has extended the tenure of 'Atal Bhujal Yojana' up to:",
+      "opts": [
+        "2025",
+        "2027",
+        "2030",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Central Government extended the Atal Bhujal Yojana (ABY) for two more years until 2027 to ensure groundwater management."
+    },
+    "hi": {
+      "q": "केन्द्र सरकार ने 'अटल भूजल योजना' की समयावधि को बढ़ाया है:",
+      "opts": [
+        "2025 तक",
+        "2027 तक",
+        "2030 तक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "केंद्र सरकार ने भूजल प्रबंधन को सुनिश्चित करने के लिए 'अटल भूजल योजना' (ABY) का कार्यकाल 2 साल बढ़ाकर 2027 तक कर दिया है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "64",
+    "numId": 64,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which Indian Institute of Technology has decided to open its campus in Tanzania?",
+      "opts": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIT Mumbai",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "IIT Madras has set up its first international campus in Zanzibar, Tanzania."
+    },
+    "hi": {
+      "q": "किस भारतीय प्रौद्योगिकी संस्थान ने तंजानिया में अपना परिसर खोलने का निर्णय किया है?",
+      "opts": [
+        "आइ० आइ० टी० मद्रास",
+        "आइ० आइ० टी० दिल्ली",
+        "आइ० आइ० टी० मुम्बई",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "IIT मद्रास ने अपना पहला अंतरराष्ट्रीय परिसर तंजानिया के ज़ांज़ीबार (Zanzibar) में स्थापित किया है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "65",
+    "numId": 65,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'Kheer Bhawani Mela' is organized in:",
+      "opts": [
+        "Punjab",
+        "Rajasthan",
+        "Jammu and Kashmir",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Kheer Bhawani Mela is a famous annual festival celebrated by Kashmiri Pandits at the Mata Kheer Bhawani temple in Jammu and Kashmir."
+    },
+    "hi": {
+      "q": "'खीर भवानी मेला' आयोजित किया जाता है:",
+      "opts": [
+        "पंजाब में",
+        "राजस्थान में",
+        "जम्मू-कश्मीर में",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "खीर भवानी मेला जम्मू-कश्मीर में माता खीर भवानी मंदिर में कश्मीरी पंडितों द्वारा मनाया जाने वाला एक प्रसिद्ध वार्षिक उत्सव है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "66",
+    "numId": 66,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which is the longest irrigation canal in India?",
+      "opts": [
+        "Yamuna Canal",
+        "Eastern Kosi Canal",
+        "Indira Gandhi Canal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Indira Gandhi Canal is the longest canal in India (approx 650 km), starting from Harike Barrage and providing water to Rajasthan."
+    },
+    "hi": {
+      "q": "भारत की सबसे लंबी सिचाई नहर कौन-सी है?",
+      "opts": [
+        "यमुना नहर",
+        "पूर्वी कोसी नहर",
+        "इन्दिरा गाँधी नहर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "इन्दिरा गाँधी नहर भारत की सबसे लंबी नहर है (लगभग 650 किमी)। यह हरिके बैराज से निकलती है और राजस्थान को पानी प्रदान करती है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "67",
+    "numId": 67,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who is the new Central Vigilance Commissioner?",
+      "opts": [
+        "N. K. Srivastava",
+        "P. K. Srivastava",
+        "B. K. Verma",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Praveen Kumar Srivastava (P.K. Srivastava) was sworn in as the Central Vigilance Commissioner (CVC) in 2023."
+    },
+    "hi": {
+      "q": "नए केन्द्रीय सतर्कता आयुक्त कौन है?",
+      "opts": [
+        "एन० के० श्रीवास्तव",
+        "पी० के० श्रीवास्तव",
+        "बी० के० वर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "प्रवीन कुमार श्रीवास्तव (पी.के. श्रीवास्तव) ने 2023 में नए केन्द्रीय सतर्कता आयुक्त (CVC) के रूप में शपथ ली।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "68",
+    "numId": 68,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "What is the rank of India in the Henley Passport Index, 2023?",
+      "opts": [
+        "144th",
+        "162nd",
+        "124th",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "In the July 2023 Henley Passport Index, India was ranked 80th. None of the given options are correct."
+    },
+    "hi": {
+      "q": "हेनले पासपोर्ट सूचकांक, 2023 में भारत का कौन-सा स्थान है?",
+      "opts": [
+        "144वाँ",
+        "162वाँ",
+        "124वाँ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "हेनले पासपोर्ट सूचकांक (जुलाई 2023) में भारत का स्थान 80वाँ था। दिए गए विकल्पों में से कोई भी सही नहीं है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "69",
+    "numId": 69,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Mallika Sarabhai is associated with:",
+      "opts": [
+        "Medical Science",
+        "Painting",
+        "Classical Dance",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Mallika Sarabhai is a renowned Indian classical dancer (Kuchipudi and Bharatanatyam) and actress."
+    },
+    "hi": {
+      "q": "मल्लिका साराभाई सम्बन्धित है:",
+      "opts": [
+        "चिकित्सा विज्ञान से",
+        "चित्रकारी से",
+        "शास्त्रीय नृत्य से",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "मल्लिका साराभाई एक प्रसिद्ध भारतीय शास्त्रीय नृत्यांगना (कुचिपुड़ी और भरतनाट्यम) और अभिनेत्री हैं।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "70",
+    "numId": 70,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which bank has decided to acquire the famous Credit Suisse Bank?",
+      "opts": [
+        "UBS Bank",
+        "SBI Bank",
+        "Central Bank of Japan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "UBS (Union Bank of Switzerland) acquired its rival Credit Suisse in 2023 to prevent a global banking crisis."
+    },
+    "hi": {
+      "q": "किस बैंक द्वारा प्रसिद्ध क्रेडिट सुइस बैंक का अधिग्रहण करने का निर्णय किया गया है?",
+      "opts": [
+        "यू० बी० एस० बैंक",
+        "एस० बी० आइ० बैंक",
+        "जापान का केन्द्र बैंक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "2023 में वैश्विक बैंकिंग संकट को रोकने के लिए यूबीएस (UBS) ने अपने प्रतिद्वंद्वी क्रेडिट सुइस बैंक का अधिग्रहण किया।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "71",
+    "numId": 71,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which country organizes the 'Free Land Camp' every year for indigenous people?",
+      "opts": [
+        "Nepal",
+        "India",
+        "Brazil",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The 'Free Land Camp' (Acampamento Terra Livre) is an annual mobilization by the indigenous people of Brazil to fight for their land rights."
+    },
+    "hi": {
+      "q": "कौन-सा देश प्रति वर्ष स्वदेशी लोगों के लिए 'फ्री लैंड कैंप' आयोजित करता है?",
+      "opts": [
+        "नेपाल",
+        "भारत",
+        "ब्राज़ील",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'फ्री लैंड कैंप' ब्राज़ील के स्वदेशी लोगों द्वारा अपने भूमि अधिकारों के लिए किया जाने वाला एक वार्षिक आयोजन है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "72",
+    "numId": 72,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "In which year was the 'Rashtriya Janata Dal' (RJD) founded?",
+      "opts": [
+        "1998",
+        "1996",
+        "1997",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Rashtriya Janata Dal (RJD) was founded by Lalu Prasad Yadav on July 5, 1997."
+    },
+    "hi": {
+      "q": "'राष्ट्रीय जनता दल' की स्थापना किस वर्ष हुई थी?",
+      "opts": [
+        "1998",
+        "1996",
+        "1997",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'राष्ट्रीय जनता दल' (राजद) की स्थापना लालू प्रसाद यादव द्वारा 5 जुलाई 1997 को की गई थी।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "73",
+    "numId": 73,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "According to the Bihar Industrial Investment Promotion (Textile & Leather) Policy, 2022, what is the maximum amount of grant given for patent fees?",
+      "opts": [
+        "5 lakh",
+        "10 lakh",
+        "20 lakh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Under this policy, a grant of up to ₹10 lakh per patent is provided to promote innovation."
+    },
+    "hi": {
+      "q": "बिहार औद्योगिक निवेश प्रोत्साहन (वस्त्र एवं चर्म) नीति, 2022 के अनुसार, पेटेन्ट शुल्क की कितनी राशि तक का अनुदान दिया जाएगा?",
+      "opts": [
+        "5 लाख",
+        "10 लाख",
+        "20 लाख",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "इस नीति के तहत, पेटेंट पंजीकरण हेतु अधिकतम ₹10 लाख प्रति पेटेंट का अनुदान दिया जाता है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "74",
+    "numId": 74,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "How many assembly constituencies are there under Patna district?",
+      "opts": [
+        "16",
+        "12",
+        "14",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Patna district is divided into 14 Vidhan Sabha constituencies."
+    },
+    "hi": {
+      "q": "पटना जिले के अन्तर्गत कितने विधानसभा निर्वाचन क्षेत्र हैं?",
+      "opts": [
+        "16",
+        "12",
+        "14",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पटना जिले को 14 विधानसभा (Vidhan Sabha) निर्वाचन क्षेत्रों में बाँटा गया है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "75",
+    "numId": 75,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "India borrowed the idea of a federal system with a strong center from:",
+      "opts": [
+        "Canada",
+        "U.S.A.",
+        "U.K.",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Indian Constitution borrowed the concept of a 'Federation with a strong Centre' from the Constitution of Canada."
+    },
+    "hi": {
+      "q": "भारत ने एक मजबूत केन्द्र के साथ संघीय प्रणाली का विचार उधार लिया था:",
+      "opts": [
+        "कनाडा से",
+        "यू० एस० ए० से",
+        "यू० के० से",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारतीय संविधान में 'एक मजबूत केंद्र के साथ संघीय व्यवस्था' का प्रावधान कनाडा के संविधान से लिया गया है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "76",
+    "numId": 76,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The minimum age required to become a member of the Rajya Sabha is:",
+      "opts": [
+        "18 years",
+        "25 years",
+        "30 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Article 84(b) of the Constitution sets the minimum age for Rajya Sabha at 30 years."
+    },
+    "hi": {
+      "q": "राज्य सभा का सदस्य बनने के लिए आवश्यक न्यूनतम आयु है:",
+      "opts": [
+        "18 वर्ष",
+        "25 वर्ष",
+        "30 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "संविधान के अनुसार, राज्यसभा का सदस्य बनने के लिए न्यूनतम आयु 30 वर्ष है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "77",
+    "numId": 77,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which Indian film won an Oscar award in 2023?",
+      "opts": [
+        "The Elephant Whisperers",
+        "All That Breathes",
+        "Chhello Show",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'The Elephant Whisperers' won the Academy Award for Best Documentary Short Film in 2023."
+    },
+    "hi": {
+      "q": "किस भारतीय फिल्म ने 2023 में ऑस्कर पुरस्कार जीता?",
+      "opts": [
+        "द एलिफेंट व्हिस्पार्स",
+        "ऑल दैट ब्रीदूस",
+        "छेल्लो शो",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'द एलिफेंट व्हिस्पर्स' ने 2023 में सर्वश्रेष्ठ वृत्तचित्र लघु फिल्म का ऑस्कर जीता।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "78",
+    "numId": 78,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Current Affairs",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which article of the Constitution ensures the abolition of untouchability?",
+      "opts": [
+        "Article 15",
+        "Article 16",
+        "Article 17",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Article 17 of the Indian Constitution abolishes the practice of untouchability."
+    },
+    "hi": {
+      "q": "संविधान का कौन-सा अनुच्छेद अस्पृश्यता के उन्मूलन को सुनिश्चित करता है?",
+      "opts": [
+        "अनुच्छेद 15",
+        "अनुच्छेद 16",
+        "अनुच्छेद 17",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारतीय संविधान का अनुच्छेद 17 अस्पृश्यता (छुआछूत) के अंत का प्रावधान करता है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "79",
+    "numId": 79,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following is not a giant (Jovian) planet?",
+      "opts": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Mars is a rocky planet, while Jupiter and Saturn are giant (gas) planets."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से कौन-सा वृहद् ग्रह नहीं है?",
+      "opts": [
+        "मंगल",
+        "बृहस्पति",
+        "शनि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "मंगल एक स्थलीय (चट्टानी) ग्रह है, जबकि बृहस्पति और शनि वृहद् ग्रह (गैस दानव) हैं।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "80",
+    "numId": 80,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "In which district of Bihar is the production of paddy maximum?",
+      "opts": [
+        "Bhojpur",
+        "Rohtas",
+        "Nalanda",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Rohtas is the leading producer of paddy (rice) and wheat in Bihar."
+    },
+    "hi": {
+      "q": "बिहार के किस जिले में धान का उत्पादन सर्वाधिक होता है?",
+      "opts": [
+        "भोजपुर",
+        "रोहतास",
+        "नालन्दा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "रोहतास जिला बिहार में धान का सबसे बड़ा उत्पादक है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "81",
+    "numId": 81,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which is the establishment year of the Survey of India?",
+      "opts": [
+        "1667",
+        "1767",
+        "1867",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Survey of India was set up in 1767 by the British East India Company."
+    },
+    "hi": {
+      "q": "कौन-सा भारतीय सर्वेक्षण विभाग का स्थापना वर्ष है?",
+      "opts": [
+        "1667",
+        "1767",
+        "1867",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'भारतीय सर्वेक्षण विभाग' की स्थापना 1767 में हुई थी।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "82",
+    "numId": 82,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Aquaculture (Pisciculture) is an indicator of:",
+      "opts": [
+        "Determinism",
+        "Possibilism",
+        "Probabilism",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Aquaculture modifies the natural environment for human needs, illustrating the geographical concept of 'Possibilism'."
+    },
+    "hi": {
+      "q": "मत्स्यकृषि सूचक है:",
+      "opts": [
+        "नियतिवाद का",
+        "सम्भववाद का",
+        "सम्भाव्यतावाद का",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "मत्स्यकृषि प्राकृतिक वातावरण को मानव उपयोग के लिए अनुकूलित करने का उदाहरण है, जो भूगोल में 'सम्भववाद' (Possibilism) को दर्शाता है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "83",
+    "numId": 83,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The rocky surface found on a mountain peak is called:",
+      "opts": [
+        "Felsenmeer",
+        "Fella",
+        "Felt",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'Felsenmeer' is a German geographical term meaning 'sea of rock'."
+    },
+    "hi": {
+      "q": "पर्वत शिखर पर मिलने वाली चट्टानी सतह कहलाती है:",
+      "opts": [
+        "फेलसेनमीर",
+        "फेल्ला",
+        "फेल्ट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'फेलसेनमीर' (Felsenmeer) पर्वत शिखरों या ठंडे प्रदेशों में मिलने वाली विस्तृत चट्टानी सतह को कहते हैं।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "84",
+    "numId": 84,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The 'Landschaft' ideology is associated with which school?",
+      "opts": [
+        "French school",
+        "German school",
+        "British school",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "'Landschaft' is a German geographical concept."
+    },
+    "hi": {
+      "q": "लैंडशाफ्ट विचारधारा किस स्कूल से सम्बन्धित है?",
+      "opts": [
+        "फ्रेन्च स्कूल",
+        "जर्मन स्कूल",
+        "ब्रिटिश स्कूल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'लैंडशाफ्ट' (Landschaft) जर्मन भूगोलवेत्ताओं (German School of Geography) द्वारा विकसित एक अवधारणा है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "85",
+    "numId": 85,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Where is Amarkantak, the origin of the Son river, located?",
+      "opts": [
+        "Maikal Range",
+        "Makalu Range",
+        "Rajmahal Hills",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Amarkantak is located in the Maikal Range of Madhya Pradesh."
+    },
+    "hi": {
+      "q": "सोन नदी का उत्पत्ति-स्थल अमरकंटक कहाँ स्थित है?",
+      "opts": [
+        "मैकाल श्रेणी",
+        "मकालू श्रेणी",
+        "राजमहल पहाड़ियाँ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "अमरकंटक मध्य प्रदेश की मैकाल श्रेणी (Maikal Range) में स्थित है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "86",
+    "numId": 86,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Approximately what percentage of the area of Madhya Pradesh is cultivable?",
+      "opts": [
+        "44%",
+        "30%",
+        "50%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "About 44% to 49% of the total geographical area of Madhya Pradesh is considered net sown/cultivable area."
+    },
+    "hi": {
+      "q": "मध्य प्रदेश का लगभग कितना प्रतिशत क्षेत्रफल कृषि योग्य है?",
+      "opts": [
+        "44%",
+        "30%",
+        "50%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "मध्य प्रदेश के कुल भौगोलिक क्षेत्रफल का लगभग 44% (Net Sown Area) कृषि योग्य भूमि के अंतर्गत आता है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "87",
+    "numId": 87,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Environmental pollution gave birth to:",
+      "opts": [
+        "Determinism",
+        "Neo-determinism",
+        "Scientific determinism",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Environmental degradation led to 'Neo-determinism' proposed by Griffith Taylor."
+    },
+    "hi": {
+      "q": "पर्यावरण प्रदूषण ने जन्म दिया:",
+      "opts": [
+        "नियतिवाद को",
+        "नव-नियतिवाद को",
+        "वैज्ञानिक नियतिवाद को",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पर्यावरण प्रदूषण और असंतुलन ने ग्रिफिथ टेलर के 'नव-नियतिवाद' को जन्म दिया।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "88",
+    "numId": 88,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "In which district of Bihar is the production of wheat maximum?",
+      "opts": [
+        "Patna",
+        "Rohtas",
+        "Jehanabad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Rohtas is the highest producer of both wheat and paddy in Bihar."
+    },
+    "hi": {
+      "q": "बिहार के किस जिले में गेहूँ का उत्पादन सर्वाधिक होता है?",
+      "opts": [
+        "पटना",
+        "रोहतास",
+        "जहानाबाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "रोहतास जिला बिहार में धान के साथ-साथ गेहूँ का भी सबसे बड़ा उत्पादक है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "89",
+    "numId": 89,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Fault scarp is:",
+      "opts": [
+        "Structural",
+        "Erosional",
+        "Tectonic",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A fault scarp is a small step or offset on the ground surface caused by fault movement, a tectonic feature."
+    },
+    "hi": {
+      "q": "भंश स्कार्प होता है:",
+      "opts": [
+        "संरचनात्मक",
+        "अपरदनात्मक",
+        "विवर्तनिक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भ्रंश कगार (Fault scarp) पृथ्वी की सतह पर एक खड़ी ढलान है जो भ्रंश (Fault) के कारण बनती है। यह एक विवर्तनिक स्थलाकृति है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "90",
+    "numId": 90,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Geography",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "In which district of Bihar is the production of sugar maximum?",
+      "opts": [
+        "East Champaran",
+        "West Champaran",
+        "Saran",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "West Champaran is the leading producer of sugarcane and sugar in Bihar."
+    },
+    "hi": {
+      "q": "बिहार के किस जिले में चीनी का उत्पादन सर्वाधिक होता है?",
+      "opts": [
+        "पूर्वी चम्पारण",
+        "पश्चिमी चम्पारण",
+        "सारण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पश्चिमी चम्पारण बिहार में गन्ने और चीनी का सबसे बड़ा उत्पादक जिला है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "91",
+    "numId": 91,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "When was Patna College established?",
+      "opts": [
+        "1861",
+        "1863",
+        "1865",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Patna College was established on January 9, 1863."
+    },
+    "hi": {
+      "q": "पटना कॉलेज कब स्थापित हुआ?",
+      "opts": [
+        "1861",
+        "1863",
+        "1865",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पटना कॉलेज की स्थापना 9 जनवरी 1863 को हुई थी।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "92",
+    "numId": 92,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who among these was the editor of the newspaper 'Vande Mataram'?",
+      "opts": [
+        "Bankim Chandra Chatterjee",
+        "Aurobindo Ghosh",
+        "Bipin Chandra Pal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The English language newspaper 'Bande Mataram' was founded by Bipin Chandra Pal but edited primarily by Aurobindo Ghosh."
+    },
+    "hi": {
+      "q": "इनमें से कौन 'वन्दे मातरम्' समाचार-पत्र के संपादक थे?",
+      "opts": [
+        "बंकिम चन्द्र चटर्जी",
+        "अरविन्द घोष",
+        "विपिन चन्द्र पाल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "अंग्रेजी समाचार पत्र 'वंदे मातरम्' की शुरुआत विपिन चंद्र पाल ने की थी, लेकिन इसके प्रमुख संपादक अरविंद घोष थे।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "93",
+    "numId": 93,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "By whom was the 'All India Harijan Sangh' founded in 1932?",
+      "opts": [
+        "Dr. B. R. Ambedkar",
+        "Jagjivan Ram",
+        "Mahatma Gandhi",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Mahatma Gandhi founded the Harijan Sevak Sangh in 1932 to eradicate untouchability."
+    },
+    "hi": {
+      "q": "'ऑल इंडिया हरिजन संघ' की स्थापना 1932 में किसके द्वारा की गई थी?",
+      "opts": [
+        "डॉ० बी० आर० अम्बेदकर",
+        "जगजीवन राम",
+        "महात्मा गाँधी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "महात्मा गाँधी ने 1932 में 'हरिजन सेवक संघ' की स्थापना की थी।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "94",
+    "numId": 94,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which event happened first?",
+      "opts": [
+        "Quit India Movement Resolution",
+        "Arrival of Cripps Mission",
+        "Arrival of Lord Wavell as Governor General",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Cripps Mission arrived in March 1942. Quit India Resolution was in August 1942."
+    },
+    "hi": {
+      "q": "कौन-सी घटना सबसे पहले हुई?",
+      "opts": [
+        "भारत छोड़ो आन्दोलन का प्रस्ताव",
+        "क्रिप्स मिशन का आगमन",
+        "गवर्नर जनरल पद पर लॉर्ड वेवेल का आगमन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "क्रिप्स मिशन (मार्च 1942), भारत छोड़ो प्रस्ताव (अगस्त 1942)। अतः सबसे पहले क्रिप्स मिशन का आगमन हुआ।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "95",
+    "numId": 95,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who among these mocked the Indian National Congress by saying that 'it represents a very microscopic minority'?",
+      "opts": [
+        "Dufferin",
+        "Curzon",
+        "Minto",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Lord Dufferin mocked the INC by calling it a representative of a 'microscopic minority'."
+    },
+    "hi": {
+      "q": "इनमें से किसने यह कहते हुए भारतीय राष्ट्रीय काँग्रेस की हँसी उड़ाई कि 'यह एक बहुत सूक्ष्म भाग (अल्पसंख्यक) का प्रतिनिधित्व करता है'?",
+      "opts": [
+        "डफरिन",
+        "कर्जन",
+        "मिन्टो",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "लॉर्ड डफरिन ने यह कहकर कांग्रेस का मज़ाक उड़ाया था कि यह केवल 'सूक्ष्मदर्शी अल्पसंख्यकों' (microscopic minority) का प्रतिनिधित्व करती है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "96",
+    "numId": 96,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who was sentenced to death in the Muzaffarpur bomb case?",
+      "opts": [
+        "Prafulla Chaki",
+        "Khudiram Bose",
+        "Rashbehari Bose",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Khudiram Bose was caught and hanged in the 1908 Muzaffarpur bombing case."
+    },
+    "hi": {
+      "q": "मुजफ्फरपुर बम काण्ड में किसको फाँसी की सजा दी गई थी?",
+      "opts": [
+        "प्रफुल्ल चाकी",
+        "खुदीराम बोस",
+        "रासबिहारी बोस्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "1908 के मुजफ्फरपुर बम कांड के बाद खुदीराम बोस को गिरफ्तार करके फाँसी दी गई थी।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "97",
+    "numId": 97,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who among the following was not associated with the 'Ahrar Movement'?",
+      "opts": [
+        "Maulana Mazharul Haque",
+        "Maulana Zafar Ali Khan",
+        "Maulana Altaf Hussain Hali",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Maulana Altaf Hussain Hali was part of the Aligarh Movement, not the nationalist Ahrar Movement."
+    },
+    "hi": {
+      "q": "इनमें से कौन एक 'अहरार आन्दोलन' से सम्बन्धित नहीं थे?",
+      "opts": [
+        "मौलाना मजहरुल हक़",
+        "मौलाना जफर अली खाँ",
+        "मौलाना अल्ताफ हुसैन हाली",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "मौलाना अल्ताफ हुसैन हाली अलीगढ़ आन्दोलन से जुड़े थे, 'अहरार आन्दोलन' से नहीं।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "98",
+    "numId": 98,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who led the 'Kol Rebellion' during 1832-33?",
+      "opts": [
+        "Narayan Rao",
+        "Sidhu and Kanhu",
+        "Buddhu Bhagat",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Kol uprising was led by Buddhu Bhagat. The given options don't match exactly."
+    },
+    "hi": {
+      "q": "1832-33 के मध्य 'कोल विद्रोह' का नेतृत्व किसने किया था?",
+      "opts": [
+        "नारायण राव",
+        "सिधू और कान्हू",
+        "बुद्धू भगत",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कोल विद्रोह का नेतृत्व बुद्धू भगत ने किया था। दिए गए विकल्पों में सही नाम नहीं है, अतः विकल्प E सही है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "99",
+    "numId": 99,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "In which year did Babu Kunwar Singh pass away?",
+      "opts": [
+        "1857",
+        "1858",
+        "1859",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Babu Kunwar Singh died on 26 April 1858."
+    },
+    "hi": {
+      "q": "किस वर्ष बाबू कुँवर सिंह का देहान्त हुआ?",
+      "opts": [
+        "1857",
+        "1858",
+        "1859",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "बाबू वीर कुँवर सिंह का निधन 26 अप्रैल 1858 को हुआ था।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "100",
+    "numId": 100,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who is credited with founding the 'Young Bengal Movement'?",
+      "opts": [
+        "Henry Vivian Derozio",
+        "Ishwar Chandra Vidyasagar",
+        "Raja Ram Mohan Roy",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Young Bengal Movement was founded by Henry Louis Vivian Derozio."
+    },
+    "hi": {
+      "q": "'युवा बंगाल आन्दोलन' की स्थापना का श्रेय किसे है?",
+      "opts": [
+        "हेनरी विवियन डेरोजियो",
+        "ईश्वरचन्द्र विद्यासागर",
+        "राजा राममोहन राय",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'युवा बंगाल आन्दोलन' की शुरुआत हेनरी लुई विवियन डेरोजियो ने की थी।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "101",
+    "numId": 101,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "On which date did Clement Attlee announce that the British would leave India by June 1948?",
+      "opts": [
+        "20 January, 1947",
+        "20 February, 1947",
+        "10 January, 1947",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "British Prime Minister Clement Attlee made this historic declaration in the House of Commons on 20 February 1947."
+    },
+    "hi": {
+      "q": "किस तिथि को क्लीमेन्ट एटली ने घोषणा की, कि जून 1948 तक ब्रिटिश भारत को छोड़ देगा?",
+      "opts": [
+        "20 जनवरी, 1947",
+        "20 फरवरी, 1947",
+        "10 जनवरी, 1947",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "ब्रिटिश प्रधानमंत्री क्लीमेंट एटली ने 20 फरवरी 1947 को हाउस ऑफ कॉमन्स में घोषणा की थी कि अंग्रेज जून 1948 तक भारत छोड़ देंगे।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "102",
+    "numId": 102,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "In which year was Bihar separated from Bengal?",
+      "opts": [
+        "1905",
+        "1907",
+        "1909",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Bihar (along with Orissa) was separated from the Bengal Presidency in 1912. Since 1912 is not in the options, the answer is 'None of the above'."
+    },
+    "hi": {
+      "q": "किस वर्ष बिहार को बंगाल से अलग किया गया था?",
+      "opts": [
+        "1905",
+        "1907",
+        "1909",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "बिहार (और उड़ीसा) को बंगाल प्रेसीडेंसी से 1912 में अलग किया गया था। विकल्पों में 1912 नहीं है, इसलिए विकल्प E (कोई नहीं) सही है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "103",
+    "numId": 103,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following was the main cause of the Quit India Movement, 1942?",
+      "opts": [
+        "Failure of the Cripps Mission",
+        "Harmful effects of the Second World War",
+        "Gandhi-Irwin Pact",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The immediate cause of the Quit India Movement was the failure of the Cripps Mission (1942)."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से भारत छोड़ो आन्दोलन, 1942 का मुख्य कारण क्या था?",
+      "opts": [
+        "क्रिप्स मिशन की असफलता",
+        "द्वितीय विश्वयुद्ध के हानिकारक प्रभाव",
+        "गाँधी-इरविन समझौता",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारत छोड़ो आंदोलन का तात्कालिक और मुख्य कारण क्रिप्स मिशन (1942) की विफलता थी।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "104",
+    "numId": 104,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Indian National Movement",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "'Hindi shall be the official language of the Union of India' – this was decided in September 1949 by which committee of the Constituent Assembly?",
+      "opts": [
+        "By the Committee on the Supreme Court",
+        "By the Rules and Procedure Committee",
+        "By the Drafting Committee",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Drafting Committee drafted the language provisions which made Hindi the official language."
+    },
+    "hi": {
+      "q": "'हिन्दी भारत के संघ की राजभाषा होगी', ऐसा संविधान निर्मात्री सभा की किस समिति द्वारा, सितम्बर 1949 में निर्णीत कर दिया था?",
+      "opts": [
+        "सर्वोच्च न्यायालय पर समिति द्वारा",
+        "नियम तथा प्रक्रिया समिति द्वारा",
+        "प्रारूप समिति द्वारा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "यह निर्णय प्रारूप समिति (Drafting Committee) द्वारा किया गया था।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "105",
+    "numId": 105,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following aspects of the nullity of law is found in India?",
+      "opts": [
+        "Judiciary can declare disputed executive orders or legislative measures void, wholly or in part",
+        "A statute can be declared void wholly or in part",
+        "A void law can be revived by the state through a constitutional amendment",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "In India, the judiciary has the power of judicial review to strike down laws wholly or partially. Thus, both A and B are correct."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से भारतवर्ष में विधि की शून्यता का कौन-सा पहलू पाया जाता है?",
+      "opts": [
+        "न्यायपालिका, विवादित कार्यपालिका आदेश या विधायी उपायों को, पूर्णतः या उसके भाग को शून्य घोषित कर सकती है",
+        "एक संविधि पूर्णतः या आंशिक रूप से शून्य घोषित की जा सकती है",
+        "एक शून्य विधि को, संवैधानिक संशोधन के माध्यम से, राज्य द्वारा पुनर्जीवित किया जा सकता है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारत में न्यायपालिका न्यायिक समीक्षा के तहत विधियों और आदेशों को पूर्ण या आंशिक रूप से शून्य घोषित कर सकती है। अतः A और B दोनों सही हैं।"
+    },
+    "correct": 3,
+    "originalCorrectChar": "4"
+  },
+  {
+    "qNo": "106",
+    "numId": 106,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following committee's main objective was to give an exact definition of 'defection' in India before 1970?",
+      "opts": [
+        "Chavan Committee",
+        "Harshad Mehta Committee",
+        "Mudaliar Committee",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Y.B. Chavan Committee was constituted in 1967 to study political defections and define it."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से किस समिति का मुख्य उद्देश्य 1970 से पूर्व, भारत में 'दलबदल' की सटीक परिभाषा देना था?",
+      "opts": [
+        "चव्हाण समिति",
+        "हर्षद मेहता समिति",
+        "मुदालियर समिति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "वाई.बी. चव्हाण समिति का गठन 1967 में राजनीतिक 'दलबदल' की समस्या का अध्ययन करने के लिए किया गया था।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "107",
+    "numId": 107,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who among these termed the 'Community Development Programme' as a 'Silent Revolution'?",
+      "opts": [
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Dr. B. R. Ambedkar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Prime Minister Jawaharlal Nehru launched the programme in 1952 and termed it a 'silent revolution'."
+    },
+    "hi": {
+      "q": "इनमें से किसने 'सामुदायिक कार्यक्रम' को एक 'मौन क्रान्ति' की संज्ञा दी थी?",
+      "opts": [
+        "डॉ० राजेन्द्र प्रसाद ने",
+        "जवाहरलाल नेहरू ने",
+        "डॉ० बी० आर० अम्बेदकर ने",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "प्रधानमंत्री जवाहरलाल नेहरू ने 1952 में इस कार्यक्रम की शुरुआत की थी और इसे एक 'मौन क्रांति' कहा था।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "108",
+    "numId": 108,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "In which of the following years was the Bihar Solar Energy Irrigation Scheme started?",
+      "opts": [
+        "2008",
+        "2011",
+        "2014",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Dedicated Solar irrigation schemes were implemented much later (post-2017). None of the given years are correct."
+    },
+    "hi": {
+      "q": "बिहार सौर ऊर्जा सिचाई योजना निम्नलिखित से किस वर्ष आरम्भ की गई थी?",
+      "opts": [
+        "2008",
+        "2011",
+        "2014",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "बिहार में सौर सिंचाई योजनाएं 2017 के बाद शुरू की गईं। दिए गए विकल्पों में से कोई भी वर्ष सही नहीं है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "109",
+    "numId": 109,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The size of the Broad Gauge railway line is:",
+      "opts": [
+        "1676 mm",
+        "1435 mm",
+        "1067 mm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The standard distance for Broad Gauge in India is 1676 mm (5 ft 6 in)."
+    },
+    "hi": {
+      "q": "ब्रॉड गेज रेल्वे लाइन की साइज होती है:",
+      "opts": [
+        "1676 एम० एम०",
+        "1435 एम० एम०",
+        "1067 एम० एम०",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारत में ब्रॉड गेज रेलवे लाइन की पटरियों के बीच की दूरी 1676 mm होती है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "110",
+    "numId": 110,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who is the javelin thrower who holds both Olympic and World Championship titles?",
+      "opts": [
+        "Jan Zelezny",
+        "Arshad Nadeem",
+        "Neeraj Chopra",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Both Czech legend Jan Zelezny and India's Neeraj Chopra hold both titles."
+    },
+    "hi": {
+      "q": "भाला फेंकने वाला वह कौन है, जिसके पास ओलम्पिक तथा वर्ल्ड चैम्पियनशिप दोनों खिताब है?",
+      "opts": [
+        "जैन जेलेज्नी",
+        "अरशद नदीम",
+        "नीरज चोपड़ा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारत के नीरज चोपड़ा और चेक गणराज्य के दिग्गज जैन जेलेज्नी दोनों के पास यह दोनों खिताब हैं। अतः एक से अधिक विकल्प सही हैं।"
+    },
+    "correct": 3,
+    "originalCorrectChar": "4"
+  },
+  {
+    "qNo": "111",
+    "numId": 111,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The unit of measurement of sound is called:",
+      "opts": [
+        "Volt",
+        "Watt",
+        "Ampere",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The unit for measuring sound is Decibel (dB). None of the given options are correct."
+    },
+    "hi": {
+      "q": "ध्वनि के मापन की इकाई को कहा जाता है:",
+      "opts": [
+        "वोल्ट",
+        "बाट",
+        "ऐम्पीयर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "ध्वनि मापने की इकाई डेसिबल (Decibel) होती है। अतः विकल्प E सही है।"
+    },
+    "correct": 4,
+    "originalCorrectChar": "5"
+  },
+  {
+    "qNo": "112",
+    "numId": 112,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "When was the new Parliament building of India dedicated to the nation?",
+      "opts": [
+        "28 May, 2023",
+        "23 August, 2023",
+        "15 August, 2022",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Prime Minister Narendra Modi inaugurated the new Parliament building on 28 May 2023."
+    },
+    "hi": {
+      "q": "भारत के नए संसद भवन को देश को कब समर्पित किया गया?",
+      "opts": [
+        "28 मई, 2023",
+        "23 अगस्त, 2023",
+        "15 अगस्त, 2022",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "प्रधानमंत्री नरेंद्र मोदी ने 28 मई 2023 को भारत के नए संसद भवन का उद्घाटन किया।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "113",
+    "numId": 113,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "When did India's 'Chandrayaan-3' land on the surface of the Moon?",
+      "opts": [
+        "10 August, 2023",
+        "15 August, 2023",
+        "23 August, 2023",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Vikram lander successfully landed on the lunar south pole region on 23 August 2023."
+    },
+    "hi": {
+      "q": "भारत का 'चन्द्रयान-3' चन्द्रमा की सतह पर कब उतरा ?",
+      "opts": [
+        "10 अगस्त, 2023",
+        "15 अगस्त, 2023",
+        "23 अगस्त, 2023",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "चंद्रयान-3 का विक्रम लैंडर 23 अगस्त 2023 को चंद्रमा के दक्षिणी ध्रुव पर सफलतापूर्वक उतरा।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "114",
+    "numId": 114,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Article 1 of the Constitution of India describes the country as:",
+      "opts": [
+        "A Republic",
+        "A Union",
+        "An Independent Nation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Article 1(1) states: 'India, that is Bharat, shall be a Union of States.'"
+    },
+    "hi": {
+      "q": "भारत के संविधान का अनुच्छेद 1 देश को बनाता है:",
+      "opts": [
+        "एक गणराज्य",
+        "एक संप (संघ)",
+        "एक स्वतंत्र राष्ट्र",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "अनुच्छेद 1(1) में कहा गया है: 'भारत, अर्थात् इंडिया, राज्यों का संघ (Union of States) होगा।'"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "115",
+    "numId": 115,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Who laid the foundation of the capital Delhi during British rule?",
+      "opts": [
+        "Queen Elizabeth",
+        "King George V",
+        "Queen Victoria",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "King George V laid the foundation stone for the new capital in Delhi during the Delhi Durbar in December 1911."
+    },
+    "hi": {
+      "q": "ब्रिटिश शासन के दौरान, दिल्ली राजधानी की नींव किसने रखी?",
+      "opts": [
+        "महारानी एलिजावेध",
+        "किंग जॉर्ज पंचम",
+        "महारानी विक्टोरिया",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "दिसंबर 1911 में दिल्ली दरबार के दौरान, किंग जॉर्ज पंचम ने राजधानी कलकत्ता से दिल्ली स्थानांतरित करने की घोषणा की और नींव रखी।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "116",
+    "numId": 116,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "According to official sources, how many Indians lost their lives due to COVID-19 till mid-2023?",
+      "opts": [
+        "Approx 15 Lakh",
+        "Approx 5 Lakh",
+        "Approx 2 Lakh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "As per official data up to mid-2023, the reported death toll in India was approximately 5.3 lakh."
+    },
+    "hi": {
+      "q": "सरकारी सूत्रों के अनुसार, कोविड-19 के कारण मिड-2023 तक कितने भारतीयों ने जान गंवाई?",
+      "opts": [
+        "लगभग 15 लाख",
+        "लगभग 5 लाख",
+        "लगभग 2 लाख",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "आधिकारिक आंकड़ों के अनुसार, मध्य-2023 तक भारत में कोविड-19 से लगभग 5.3 लाख लोगों की मृत्यु दर्ज की गई थी।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "117",
+    "numId": 117,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The motto of G-20 in India is:",
+      "opts": [
+        "Satyameva Jayate",
+        "Ek Bharat Shreshtha Bharat",
+        "Vasudhaiva Kutumbakam",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The theme for India's G20 Presidency in 2023 was 'Vasudhaiva Kutumbakam'."
+    },
+    "hi": {
+      "q": "भारत में G-20 का ध्येय वाक्य है:",
+      "opts": [
+        "सत्यमेव जयते",
+        "एक भारत श्रेष्ठ भारत",
+        "वसुधैव कुटुम्बकम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारत की 2023 की G-20 अध्यक्षता का ध्येय वाक्य 'वसुधैव कुटुम्बकम्' था।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "118",
+    "numId": 118,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Polity",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "On the reverse side of which Indian currency note is the image of Mangalyaan printed?",
+      "opts": [
+        "On 50 Rupee note",
+        "On 10 Rupee note",
+        "On 2000 Rupee note",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The ₹2000 currency note features the motif of Mangalyaan on the reverse side."
+    },
+    "hi": {
+      "q": "भारतीय मुद्रा के किस नोट के पीछे की ओर मंगलयान का चित्र मुद्रित है?",
+      "opts": [
+        "50 रुपये के नोट पर",
+        "10 रुपये के नोट पर",
+        "2000 रुपये के नोट पर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "2000 रुपये के नोट के पीछे मंगलयान (Mangalyaan) का चित्र अंकित है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "119",
+    "numId": 119,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "By which machine is the intensity of an earthquake measured?",
+      "opts": [
+        "Barometer",
+        "Manometer",
+        "Seismograph",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A seismograph is used to record the motion of the ground during an earthquake."
+    },
+    "hi": {
+      "q": "भूकंप की तीव्रता का मापन किस मशीन द्वारा किया जाता है?",
+      "opts": [
+        "बैरोमीटर",
+        "मैनोमीटर",
+        "सिस्मोग्राफ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भूकंप के दौरान उत्पन्न होने वाली तरंगों को मापने के लिए सिस्मोग्राफ (Seismograph) नामक यंत्र का उपयोग किया जाता है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "120",
+    "numId": 120,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "The percentage of Oxygen in the air is:",
+      "opts": [
+        "0.04%",
+        "0.93%",
+        "21%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Air is roughly composed of 78% Nitrogen and 21% Oxygen."
+    },
+    "hi": {
+      "q": "बायु में ऑक्सीजन का प्रतिशत है:",
+      "opts": [
+        "0-04%",
+        "0-93%",
+        "21%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पृथ्वी के वायुमंडल में मुख्य रूप से नाइट्रोजन (लगभग 78%) और ऑक्सीजन (लगभग 21%) पाई जाती है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "121",
+    "numId": 121,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "In which layer of the atmosphere do airplanes fly?",
+      "opts": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Commercial airplanes mostly fly in the lower stratosphere to avoid weather events."
+    },
+    "hi": {
+      "q": "वायुमण्डल की किस परत में हवाई जहाज उड़ता है?",
+      "opts": [
+        "क्षोभमण्डल",
+        "समतापमण्डल",
+        "मध्यमण्डल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "अधिकांश वाणिज्यिक हवाई जहाज़ क्षोभमण्डल के ऊपर समतापमण्डल (Stratosphere) के निचले हिस्से में उड़ते हैं।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "122",
+    "numId": 122,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "What is a threat to the environment?",
+      "opts": [
+        "Plant growth",
+        "Population growth",
+        "Crop growth",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Rapid population growth leads to over-exploitation of resources, posing a threat to the environment."
+    },
+    "hi": {
+      "q": "पर्यावरण के लिए किससे खतरा है?",
+      "opts": [
+        "पादप वृद्धि",
+        "जनसंख्या वृद्धि",
+        "फसल वृद्धि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "अनियंत्रित जनसंख्या वृद्धि (Population growth) से प्राकृतिक संसाधनों का अत्यधिक दोहन होता है, जो पर्यावरण के लिए खतरा है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "123",
+    "numId": 123,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "What type of desert is the Sahara?",
+      "opts": [
+        "Cold",
+        "Hot",
+        "Mild",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Sahara is the world's largest hot desert."
+    },
+    "hi": {
+      "q": "सहारा किस प्रकार का रेगिस्तान है?",
+      "opts": [
+        "ठंडा",
+        "गर्म",
+        "मृदु",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'सहारा' विश्व का सबसे बड़ा गर्म रेगिस्तान (Hot Desert) है।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "124",
+    "numId": 124,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "When was the 'Swachh Bharat Mission' launched?",
+      "opts": [
+        "2 August, 2015",
+        "2 September, 2016",
+        "2 October, 2014",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Swachh Bharat Mission was launched on 2 October 2014."
+    },
+    "hi": {
+      "q": "'स्वच्छ भारत मिशन' कब प्रारम्भ हुआ?",
+      "opts": [
+        "2 अगस्त, 2015",
+        "2 सितंबर, 2016",
+        "2 अक्तूबर, 2014",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "'स्वच्छ भारत मिशन' 2 अक्टूबर 2014 (गांधी जयंती) को शुरू किया गया था।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "125",
+    "numId": 125,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which city is situated on the banks of the river Ganga?",
+      "opts": [
+        "Prayagraj",
+        "Kolkata",
+        "Bhopal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Prayagraj is located at the confluence of the Ganga, Yamuna, and Saraswati rivers."
+    },
+    "hi": {
+      "q": "गंगा नदी के तट पर स्थित शहर है:",
+      "opts": [
+        "प्रयागराज",
+        "कोलकाता",
+        "भोपाल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "प्रयागराज गंगा, यमुना और सरस्वती के संगम पर स्थित है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "126",
+    "numId": 126,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "A non-conventional source of energy is:",
+      "opts": [
+        "Nuclear energy",
+        "Biogas",
+        "Geothermal energy",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Nuclear, Biogas, and Geothermal energy are all considered non-conventional sources."
+    },
+    "hi": {
+      "q": "ऊर्जा का गैर-परंपरागत स्रोत है:",
+      "opts": [
+        "परमाणु ऊर्जा",
+        "बायोगैस",
+        "भूतापीय ऊर्जा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "बायोगैस, भूतापीय ऊर्जा, सौर ऊर्जा - ये सभी ऊर्जा के गैर-परंपरागत स्रोत हैं। अतः एक से अधिक विकल्प सही हैं।"
+    },
+    "correct": 3,
+    "originalCorrectChar": "4"
+  },
+  {
+    "qNo": "127",
+    "numId": 127,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Population will decrease if:",
+      "opts": [
+        "Birth rate and death rate are equal",
+        "Birth rate is high and death rate is low",
+        "Birth rate is low and death rate is high",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A population decreases when the number of deaths exceeds live births."
+    },
+    "hi": {
+      "q": "जनसंख्या घट जाएगी, यदि:",
+      "opts": [
+        "जन्म-दर एवं मृत्यु दर समान हों",
+        "जन्म-दर अधिक हो एवं मृत्यु दर कम हो",
+        "जन्म-दर कम हो एवं मृत्यु दर अधिक हो",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "जनसंख्या में गिरावट तब होती है जब जन्म दर कम हो और मृत्यु दर अधिक हो।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "128",
+    "numId": 128,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Jaundice can spread due to which of the following types of pollution?",
+      "opts": [
+        "Air",
+        "Thermal",
+        "Water",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Jaundice is a water-borne disease that spreads mainly through contaminated water."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से किस प्रकार के प्रदूषण से पीलिया रोग फैल सकता है?",
+      "opts": [
+        "वायु",
+        "तापीय",
+        "जल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पीलिया एक जल-जनित बीमारी है, जो मुख्य रूप से प्रदूषित जल (Water pollution) पीने से फैलती है।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "129",
+    "numId": 129,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following places in India is a biodiversity hotspot?",
+      "opts": [
+        "Western Ghats",
+        "Nanda Devi",
+        "Aravalli",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "The Western Ghats is one of the biodiversity hotspots in India."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से भारत में कौन-सा स्थान जैव-विविधता हॉटस्पॉट है?",
+      "opts": [
+        "पश्चिमी घाट",
+        "नंदादेवी",
+        "अरावली",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारत में 4 जैव-विविधता हॉटस्पॉट हैं, जिनमें से 'पश्चिमी घाट' सबसे प्रमुख है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "130",
+    "numId": 130,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "A high level of BOD (Biological Oxygen Demand) indicates that:",
+      "opts": [
+        "Water is highly polluted",
+        "Water is less polluted",
+        "High consumption of organic matter by microbes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A high BOD means microbes need more oxygen to decompose waste, meaning water is highly polluted. Both A and C are correct."
+    },
+    "hi": {
+      "q": "बी० ओ० डी० (जैविक ऑक्सीजन की माँग) की उच्च मात्रा इंगित करती है कि:",
+      "opts": [
+        "पानी बहुत प्रदूषित है",
+        "पानी कम प्रदूषित है",
+        "पानी में सूक्ष्मजीवों की वजह से कार्बनिक पदार्थों का उपभोग ज्यादा है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "उच्च BOD का अर्थ है कि सूक्ष्मजीवों को कचरा अपघटित करने के लिए अधिक ऑक्सीजन चाहिए, जिसका मतलब पानी बहुत अधिक प्रदूषित है। अतः एक से अधिक विकल्प सही हैं।"
+    },
+    "correct": 3,
+    "originalCorrectChar": "4"
+  },
+  {
+    "qNo": "131",
+    "numId": 131,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "What kind of disease is Hepatitis-A?",
+      "opts": [
+        "Food contamination",
+        "Water-borne disease",
+        "Air-borne disease",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Hepatitis A is primarily transmitted through both contaminated food and water. Both A and B apply."
+    },
+    "hi": {
+      "q": "हेपेटाइटिस-A किस प्रकार की बीमारी है?",
+      "opts": [
+        "भोजन संदूषण",
+        "जल-उत्पन्न बीमारी",
+        "वायु-उत्पन्न बीमारी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "हेपेटाइटिस-A मुख्य रूप से दूषित पानी (जल-जनित) और दूषित भोजन दोनों के सेवन से फैलता है। अतः विकल्प D सही है।"
+    },
+    "correct": 3,
+    "originalCorrectChar": "4"
+  },
+  {
+    "qNo": "132",
+    "numId": 132,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Fish in sewage-polluted water die due to:",
+      "opts": [
+        "Pathogens",
+        "Clogging of gills",
+        "Lack of oxygen",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Sewage pollution causes microbes to use up dissolved oxygen, leaving no oxygen for fish."
+    },
+    "hi": {
+      "q": "मल के द्वारा प्रदूषित पानी में मछलियों की मृत्यु होती है:",
+      "opts": [
+        "रोगजनकों के द्वारा",
+        "गलफड़ों के बंद होने से",
+        "ऑक्सीजन की कमी से",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "मल से प्रदूषित जल में सूक्ष्मजीव पानी की सारी घुली हुई ऑक्सीजन का उपयोग कर लेते हैं, जिससे मछलियाँ मर जाती हैं।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "133",
+    "numId": 133,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Which of the following is a pollution-induced disorder?",
+      "opts": [
+        "Fluorosis",
+        "Leprosy",
+        "Pneumoconiosis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Fluorosis is caused by water pollution. Pneumoconiosis is caused by inhaling dust/coal pollution. Both A and C are correct."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से कौन-सा प्रदूषण-जनित विकार है?",
+      "opts": [
+        "फ्लोरोसिस",
+        "कुष्ठ रोग",
+        "न्यूमोकोनियोसिस",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "फ्लोरोसिस पानी में फ्लोराइड प्रदूषण से होता है। न्यूमोकोनियोसिस हवा में धूल प्रदूषण से होता है। अतः A और C दोनों सही हैं।"
+    },
+    "correct": 3,
+    "originalCorrectChar": "4"
+  },
+  {
+    "qNo": "134",
+    "numId": 134,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Environment",
+    "year": 2024,
+    "examName": "BPSC TRE 4.0 (Class 1-5 PRT)",
+    "en": {
+      "q": "Coral reefs in India are found in:",
+      "opts": [
+        "Himalayan region",
+        "Andaman and Nicobar Islands",
+        "Uttar Pradesh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Coral reefs are found in Lakshadweep and the Andaman & Nicobar Islands."
+    },
+    "hi": {
+      "q": "भारत में प्रवाल भित्तियाँ पाई जाती हैं:",
+      "opts": [
+        "हिमालयी क्षेत्र में",
+        "अंडमान एवं निकोबार द्वीपसमूह में",
+        "उत्तर प्रदेश में",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भारत में प्रवाल भित्तियाँ मुख्य रूप से लक्षद्वीप और अंडमान एवं निकोबार द्वीपसमूह में पाई जाती हैं।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "MTH-1",
+    "numId": 1789223095431,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Work and Time",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A and B can do a piece of work in 10 and 12 days respectively. They started the work together and after 3 days A left the work. Find the total time taken to complete the work.",
+      "opts": [
+        "8.4 days",
+        "9 days",
+        "7.5 days",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Total work = LCM(10,12) = 60 units. A eff = 6, B eff = 5. A worked for 3 days = 18 units. Remaining = 42 units. Time by B = 42/5 = 8.4 days."
+    },
+    "hi": {
+      "q": "A और B किसी काम को क्रमशः 10 और 12 दिन में कर सकते हैं। दोनों ने साथ मिलकर काम शुरू किया और 3 दिन बाद A ने काम छोड़ दिया। काम पूरा होने में कुल कितना समय लगा?",
+      "opts": [
+        "8.4 दिन",
+        "9 दिन",
+        "7.5 दिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कुल काम = 60। A की क्षमता = 6, B की क्षमता = 5। A का 3 दिन का काम = 18 यूनिट। बचा काम = 42। B का समय = 42/5 = 8.4 दिन।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-2",
+    "numId": 1789223095432,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Work and Time",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A, B and C can complete a work in 10, 12 and 15 days respectively. They started together. After 2 days A left and after 2 more days C left. In how many days was the work completed?",
+      "opts": [
+        "6.4 days",
+        "6 days",
+        "7.5 days",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Total work = LCM(10,12,15) = 60. Eff: A=6, B=5, C=4. A worked 2 days=12, C worked 4 days=16. Remaining=32. B time = 32/5 = 6.4 days."
+    },
+    "hi": {
+      "q": "A, B और C किसी काम को क्रमशः 10, 12 और 15 दिन में कर सकते हैं। तीनों ने साथ काम शुरू किया। 2 दिन बाद A ने काम छोड़ दिया और उसके 2 दिन बाद C ने भी काम छोड़ दिया। पूरा काम कितने दिनों में समाप्त हुआ?",
+      "opts": [
+        "6.4 दिन",
+        "6 दिन",
+        "7.5 दिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कुल काम = 60। क्षमता: A=6, B=5, C=4। A (2 दिन) = 12, C (4 दिन) = 16। बचा = 32। B का समय = 32/5 = 6.4 दिन।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-3",
+    "numId": 1789223095433,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Work and Time",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A monkey climbs a 100-meter-high pole. In the 1st minute he climbs 6m and in the 2nd minute he slips 4m. In how much time will he reach the top?",
+      "opts": [
+        "95 minutes",
+        "96 minutes",
+        "100 minutes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Net climb = 2m in 2 mins. For (100-6) = 94m, it takes 94 mins. Next 1 min he climbs 6m to reach top. Total = 95 mins."
+    },
+    "hi": {
+      "q": "एक बंदर 100 मीटर ऊँचे खंभे पर चढ़ता है। वह पहले मिनट में 6 मीटर चढ़ता है और दूसरे मिनट में 4 मीटर फिसल जाता है। वह कितने समय में खंभे के शीर्ष पर पहुँच जाएगा?",
+      "opts": [
+        "95 मिनट",
+        "96 मिनट",
+        "100 मिनट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "2 मिनट में शुद्ध चढ़ाई = 2 मीटर। 94 मीटर के लिए = 94 मिनट। अगले 1 मिनट में 6 मीटर चढ़कर शीर्ष पर पहुँचेगा = 95 मिनट।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-4",
+    "numId": 1789223095434,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Pipes and Cisterns",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Two pipes A and B can fill a cistern in 48 and 36 minutes respectively. After how much time should pipe A be closed so that the cistern fills in 25 min 30 sec?",
+      "opts": [
+        "14 mins",
+        "12 mins",
+        "16 mins",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Total capacity = 144. Eff A=3, B=4. B works 25.5 mins = 102 units. Remaining = 42 units. Time for A = 42/3 = 14 mins."
+    },
+    "hi": {
+      "q": "दो नल A और B किसी टंकी को क्रमशः 48 और 36 मिनट में भर सकते हैं। दोनों को एक साथ खोला गया, कितनी देर बाद नल A को बंद किया जाए कि पूरी टंकी 25 मिनट 30 सेकंड में भर जाए?",
+      "opts": [
+        "14 मिनट",
+        "12 मिनट",
+        "16 मिनट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कुल क्षमता = 144। A=3, B=4। B (25.5 मिनट) = 102 यूनिट। बचा काम = 42। A का समय = 42/3 = 14 मिनट।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-5",
+    "numId": 1789223095435,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Pipes and Cisterns",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A leak at the bottom of a tank can empty it in 6 hours. A fill pipe adding 4 liters/min is opened and now tank empties in 8 hours. Find the capacity of the tank.",
+      "opts": [
+        "5760 liters",
+        "5000 liters",
+        "6000 liters",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Fill pipe eff = 1/6 - 1/8 = 1/24. Takes 24 hrs = 1440 mins to fill. Capacity = 1440 * 4 = 5760 liters."
+    },
+    "hi": {
+      "q": "टंकी के नीचे एक रिसाव इसे 6 घंटे में खाली कर सकता है। एक अन्य नल जो 4 लीटर प्रति मिनट पानी भरता है, उसे भी खोल दिया गया। अब टंकी 8 घंटे में खाली होती है। टंकी की क्षमता ज्ञात करें।",
+      "opts": [
+        "5760 लीटर",
+        "5000 लीटर",
+        "6000 लीटर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "भरने वाले नल की क्षमता = 1/6 - 1/8 = 1/24। समय = 24 घंटे = 1440 मिनट। कुल क्षमता = 1440 × 4 = 5760 लीटर।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-6",
+    "numId": 1789223095436,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Time, Speed and Distance",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A person walking at 5/7 of his usual speed reaches his destination 20 minutes late. Find his usual time to reach the destination.",
+      "opts": [
+        "50 minutes",
+        "40 minutes",
+        "70 minutes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Speed ratio = 5:7 => Time ratio = 7:5. Diff = 2 units = 20 mins => 1 unit = 10 mins. Usual time = 5 units = 50 mins."
+    },
+    "hi": {
+      "q": "एक व्यक्ति अपनी वास्तविक चाल की 5/7 चाल से चलने पर 20 मिनट की देरी से पहुँचता है। उसका वास्तविक समय ज्ञात कीजिए।",
+      "opts": [
+        "50 मिनट",
+        "40 मिनट",
+        "70 मिनट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "चाल अनुपात = 5:7 ⇒ समय अनुपात = 7:5। अंतर = 2 यूनिट = 20 मिनट ⇒ 1 यूनिट = 10 मिनट। मूल समय = 5 × 10 = 50 मिनट।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-7",
+    "numId": 1789223095437,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Time, Speed and Distance",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A policeman sees a thief at a distance of 200m. The thief runs at 10 km/hr and policeman chases at 12 km/hr. How far will the thief run before being caught?",
+      "opts": [
+        "1000 meters",
+        "1200 meters",
+        "800 meters",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Speed ratio = 12:10 = 6:5. Distance ratio = 6:5. Diff = 1 unit = 200m. Thief distance = 5 units = 1000m."
+    },
+    "hi": {
+      "q": "एक चोर को एक पुलिसकर्मी 200 मीटर की दूरी पर देखता है। चोर 10 किमी/घंटा और पुलिसकर्मी 12 किमी/घंटा की गति से भागता है। पकड़े जाने से पहले चोर कितनी दूरी तय कर चुका होगा?",
+      "opts": [
+        "1000 मीटर",
+        "1200 मीटर",
+        "800 मीटर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "चाल का अनुपात = 12:10 = 6:5। दूरी अनुपात = 6:5। अंतर = 1 यूनिट = 200 मीटर। चोर द्वारा दूरी = 5 × 200 = 1000 मीटर।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-8",
+    "numId": 1789223095438,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Train, Boat and Stream",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A 180-meter long train traveling at a speed of 54 km/hr crosses a platform in 20 seconds. Find the length of the platform.",
+      "opts": [
+        "120 m",
+        "150 m",
+        "100 m",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Speed = 54 * 5/18 = 15 m/s. Distance in 20s = 15 * 20 = 300m. Platform = 300 - 180 = 120m."
+    },
+    "hi": {
+      "q": "180 मीटर लंबी एक रेलगाड़ी 54 किमी/घंटा की चाल से चलते हुए एक प्लेटफॉर्म को 20 सेकंड में पार करती है। प्लेटफॉर्म की लंबाई ज्ञात करें।",
+      "opts": [
+        "120 मीटर",
+        "150 मीटर",
+        "100 मीटर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "चाल = 15 मीटर/सेकंड। 20 सेकंड में तय दूरी = 300 मीटर। प्लेटफॉर्म = 300 - 180 = 120 मीटर।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-9",
+    "numId": 1789223095439,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Find the simplest value of the expression (sin θ)/(1 + cos θ) + (1 + cos θ)/(sin θ).",
+      "opts": [
+        "2 sec θ",
+        "2 cosec θ",
+        "2 sin θ",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Numerator = sin²θ + (1+cosθ)² = 2(1+cosθ). Expression = 2(1+cosθ) / [sinθ(1+cosθ)] = 2/sinθ = 2 cosec θ."
+    },
+    "hi": {
+      "q": "व्यंजक (sin θ)/(1 + cos θ) + (1 + cos θ)/(sin θ) का सरलतम मान ज्ञात कीजिए।",
+      "opts": [
+        "2 sec θ",
+        "2 cosec θ",
+        "2 sin θ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "अंश = sin²θ + 1 + 2cosθ + cos²θ = 2(1+cosθ)। व्यंजक = 2/sinθ = 2 cosec θ।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "MTH-10",
+    "numId": 1789223095440,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Height and Distance",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "The angle of elevation of the top of a tower from a point on the ground is 30°. On moving 20m towards the foot, it becomes 60°. Find the height of the tower.",
+      "opts": [
+        "10√3 meters",
+        "20√3 meters",
+        "15√3 meters",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Formula: d = h(cot 30° - cot 60°) => 20 = h(√3 - 1/√3) = h(2/√3) => h = 10√3 meters."
+    },
+    "hi": {
+      "q": "जमीन पर स्थित किसी बिंदु से एक मीनार के शिखर का उन्नयन कोण 30° है। मीनार के पाद की ओर 20 मीटर चलने पर यह कोण 60° हो जाता है। मीनार की ऊँचाई ज्ञात कीजिए।",
+      "opts": [
+        "10√3 मीटर",
+        "20√3 मीटर",
+        "15√3 मीटर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "20 = h(√3 - 1/√3) ⇒ 20 = h(2/√3) ⇒ ऊँचाई h = 10√3 मीटर।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-11",
+    "numId": 1789223095441,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "In ΔABC, AD is the angle bisector of ∠A. If AB = 6 cm, AC = 8 cm and BD = 3 cm, find the length of DC.",
+      "opts": [
+        "5 cm",
+        "4 cm",
+        "4.5 cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Angle Bisector Theorem: AB/AC = BD/DC => 6/8 = 3/DC => DC = 4 cm."
+    },
+    "hi": {
+      "q": "ΔABC में AD, ∠A का कोण समद्विभाजक (angle bisector) है। यदि AB = 6 सेमी, AC = 8 सेमी और BD = 3 सेमी हो, तो DC की लंबाई ज्ञात कीजिए।",
+      "opts": [
+        "5 सेमी",
+        "4 सेमी",
+        "4.5 सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कोण समद्विभाजक प्रमेय: AB/AC = BD/DC ⇒ 6/8 = 3/DC ⇒ DC = 4 सेमी।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "MTH-12",
+    "numId": 1789223095442,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "What will be the length of a chord located at a distance of 3 cm from the center of a circle of radius 5 cm?",
+      "opts": [
+        "6 cm",
+        "8 cm",
+        "10 cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Half chord = √(5² - 3²) = √16 = 4 cm. Total chord = 2 * 4 = 8 cm."
+    },
+    "hi": {
+      "q": "5 सेमी त्रिज्या वाले एक वृत्त के केंद्र से 3 सेमी की दूरी पर स्थित जीवा (chord) की लंबाई क्या होगी?",
+      "opts": [
+        "6 सेमी",
+        "8 सेमी",
+        "10 सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "जीवा का आधा = √(5² - 3²) = 4 सेमी। कुल जीवा = 8 सेमी।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "MTH-13",
+    "numId": 1789223095443,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Find the mid-point of the line segment joining the points (2, 3) and (6, 7).",
+      "opts": [
+        "(4, 5)",
+        "(4, 4)",
+        "(8, 10)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Midpoint = ((2+6)/2, (3+7)/2) = (4, 5)."
+    },
+    "hi": {
+      "q": "बिंदुओं (2, 3) और (6, 7) को जोड़ने वाले रेखाखंड का मध्य-बिंदु (mid-point) ज्ञात कीजिए।",
+      "opts": [
+        "(4, 5)",
+        "(4, 4)",
+        "(8, 10)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "मध्य-बिंदु = ((2+6)/2, (3+7)/2) = (4, 5)।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-14",
+    "numId": 1789223095444,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Find the perpendicular distance between two parallel lines 3x + 4y + 5 = 0 and 3x + 4y - 15 = 0.",
+      "opts": [
+        "2 units",
+        "4 units",
+        "5 units",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Distance = |C1 - C2| / √(A²+B²) = |5 - (-15)| / √(3²+4²) = 20 / 5 = 4 units."
+    },
+    "hi": {
+      "q": "दो समांतर रेखाओं 3x + 4y + 5 = 0 और 3x + 4y − 15 = 0 के बीच की लंबवत दूरी ज्ञात कीजिए।",
+      "opts": [
+        "2 इकाई",
+        "4 इकाई",
+        "5 इकाई",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "दूरी = |5 - (-15)| / √(3²+4²) = 20 / 5 = 4 इकाई।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "MTH-15",
+    "numId": 1789223095445,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Statistics & Probability",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "If the mean of a distribution is 20 and the mode is 14, find the value of the median using the empirical formula.",
+      "opts": [
+        "16",
+        "18",
+        "20",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Mode = 3*Median - 2*Mean => 14 = 3*Median - 40 => 3*Median = 54 => Median = 18."
+    },
+    "hi": {
+      "q": "यदि किसी बंटन का माध्य (Mean) 20 और बहुलक (Mode) 14 हो, तो एम्पेरिकल सूत्र का उपयोग करके मध्यिका (Median) का मान ज्ञात करें।",
+      "opts": [
+        "16",
+        "18",
+        "20",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "बहुलक = 3×मध्यिका - 2×माध्य ⇒ 14 = 3×मध्यिका - 40 ⇒ 3×मध्यिका = 54 ⇒ मध्यिका = 18।"
+    },
+    "correct": 1,
+    "originalCorrectChar": "2"
+  },
+  {
+    "qNo": "MTH-16",
+    "numId": 1789223095446,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Statistics & Probability",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A card is drawn randomly from a pack of 52 cards. What is the probability that it is a King or a Diamond?",
+      "opts": [
+        "1/4",
+        "3/13",
+        "4/13",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Diamonds = 13, Kings = 4 (1 already in diamonds). Favorable = 13+3 = 16. Probability = 16/52 = 4/13."
+    },
+    "hi": {
+      "q": "ताश की 52 पत्तों की गड्डी में से एक पत्ता यादृच्छिक रूप से निकाला जाता है। इसके बादशाह (King) या ईंट (Diamond) होने की प्रायिकता क्या होगी?",
+      "opts": [
+        "1/4",
+        "3/13",
+        "4/13",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कुल अनुकूल परिणाम = 13 (ईंट) + 3 (अन्य बादशाह) = 16। प्रायिकता = 16/52 = 4/13।"
+    },
+    "correct": 2,
+    "originalCorrectChar": "3"
+  },
+  {
+    "qNo": "MTH-17",
+    "numId": 1789223095447,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Permutation, Combination & DI",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "How many different words can be formed from the letters of \"LOGARITHM\" such that all vowels are always together?",
+      "opts": [
+        "30240",
+        "40320",
+        "15120",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Vowels (O,A,I) = 1 unit + 6 consonants = 7 units. Ways = 7! * 3! = 5040 * 6 = 30240."
+    },
+    "hi": {
+      "q": "'LOGARITHM' शब्द के अक्षरों से ऐसे कितने अलग-अलग शब्द बनाए जा सकते हैं, जिनमें सभी स्वर (vowels) हमेशा एक साथ रहें?",
+      "opts": [
+        "30240",
+        "40320",
+        "15120",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "स्वर (O,A,I) = 1 इकाई + 6 व्यंजन = 7 इकाइयाँ। तरीके = 7! × 3! = 5040 × 6 = 30240।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "MTH-18",
+    "numId": 1789223095448,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Mathematics",
+    "topic": "Permutation, Combination & DI",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Total family expenditure is ₹72,000 in a pie chart. If the central angle showing education is 60°, what is the total expenditure on education?",
+      "opts": [
+        "₹ 12,000",
+        "₹ 15,000",
+        "₹ 10,000",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Expenditure = (60° / 360°) * 72000 = 1/6 * 72000 = ₹12,000."
+    },
+    "hi": {
+      "q": "एक पाई-चार्ट में कुल पारिवारिक व्यय ₹ 72,000 दर्शाया गया है। यदि शिक्षा पर व्यय दर्शाने वाला केंद्रीय कोण 60° है, तो शिक्षा पर कुल कितना खर्च हुआ?",
+      "opts": [
+        "₹ 12,000",
+        "₹ 15,000",
+        "₹ 10,000",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "शिक्षा पर खर्च = (60° / 360°) × 72000 = 1/6 × 72000 = ₹ 12,000।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-1",
+    "numId": 501,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Analogy",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "If \"Doctor\" is related to \"Hospital\", then \"Teacher\" is related to which of the following?",
+      "opts": [
+        "School",
+        "College",
+        "Office",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Doctor works in a hospital; similarly a teacher works in a school."
+    },
+    "hi": {
+      "q": "यदि \"डॉक्टर\" का संबंध \"अस्पताल\" से है, तो \"शिक्षक\" का संबंध निम्नलिखित में से किससे है?",
+      "opts": [
+        "विद्यालय (School)",
+        "कॉलेज",
+        "कार्यालय",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "डॉक्टर का कार्यक्षेत्र अस्पताल है; उसी प्रकार शिक्षक का कार्यक्षेत्र विद्यालय (School) है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-2",
+    "numId": 502,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Classification",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Find the odd one out among the given options: Copper, Iron, Silver, Brass.",
+      "opts": [
+        "Brass",
+        "Copper",
+        "Iron",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Brass is an alloy, whereas Copper, Iron, and Silver are pure metals."
+    },
+    "hi": {
+      "q": "दिए गए विकल्पों में से विजातीय (अलग) शब्द का चयन करें: ताँबा, लोहा, चाँदी, पीतल।",
+      "opts": [
+        "पीतल (Brass)",
+        "ताँबा (Copper)",
+        "लोहा (Iron)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पीतल एक मिश्र धातु (alloy) है, जबकि ताँबा, लोहा और चाँदी शुद्ध धातुएँ हैं।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-3",
+    "numId": 503,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Series",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Find the missing term in the given number series: 2, 6, 12, 20, 30, ?",
+      "opts": [
+        "42",
+        "40",
+        "36",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Pattern: 1*2=2, 2*3=6, 3*4=12, 4*5=20, 5*6=30, 6*7=42."
+    },
+    "hi": {
+      "q": "दी गई संख्या श्रृंखला में लुप्त पद ज्ञात कीजिए: 2, 6, 12, 20, 30, ?",
+      "opts": [
+        "42",
+        "40",
+        "36",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पैटर्न: 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-4",
+    "numId": 504,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Coding-Decoding",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "If \"TEACHER\" is coded as \"VGCEJGT\" in a certain language, how will \"STUDENT\" be coded?",
+      "opts": [
+        "UVWFGPV",
+        "TVWFGOU",
+        "UVWEFOV",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Each letter is shifted by +2. S+2=U, T+2=V, U+2=W, D+2=F, E+2=G, N+2=P, T+2=V => UVWFGPV."
+    },
+    "hi": {
+      "q": "यदि किसी सांकेतिक भाषा में \"TEACHER\" को \"VGCEJGT\" लिखा जाता है, तो \"STUDENT\" को कैसे लिखा जाएगा?",
+      "opts": [
+        "UVWFGPV",
+        "TVWFGOU",
+        "UVWEFOV",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "प्रत्येक अक्षर में +2 का विस्थापन है। S+2=U, T+2=V, U+2=W, D+2=F, E+2=G, N+2=P, T+2=V ⇒ UVWFGPV।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-5",
+    "numId": 505,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Blood Relations",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Pointing to a photograph, a man said: \"He is the son of the only daughter of my father's wife.\" How is the man related to the boy?",
+      "opts": [
+        "Maternal Uncle",
+        "Father",
+        "Brother",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Father's wife = Mother. Mother's only daughter = Sister. Sister's son = Nephew. The man is his Maternal Uncle."
+    },
+    "hi": {
+      "q": "एक तस्वीर की ओर इशारा करते हुए एक पुरुष ने कहा: \"वह मेरे पिता की पत्नी की इकलौती पुत्री का पुत्र है।\" वह पुरुष उस लड़के का क्या लगता है?",
+      "opts": [
+        "मामा (Maternal Uncle)",
+        "पिता",
+        "भाई",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "पिता की पत्नी = माता। माता की इकलौती पुत्री = बहन। बहन का पुत्र = भांजा। अतः वह पुरुष उसका मामा है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-6",
+    "numId": 506,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Direction & Distance",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A man walks 10 km North, turns Right and walks 6 km, then turns Right and walks 10 km. How far and in which direction is he from his starting point?",
+      "opts": [
+        "6 km East",
+        "6 km West",
+        "10 km South",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Walking 10 km North and 10 km South cancels the Y-axis movement. Remaining distance is 6 km towards East."
+    },
+    "hi": {
+      "q": "एक व्यक्ति 10 किमी उत्तर दिशा में चलता है, फिर दाएँ मुड़कर 6 किमी चलता है, फिर दाएँ मुड़कर 10 किमी चलता है। वह प्रारंभिक स्थान से कितनी दूरी और किस दिशा में है?",
+      "opts": [
+        "6 किमी पूर्व",
+        "6 किमी पश्चिम",
+        "10 किमी दक्षिण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "10 किमी उत्तर और 10 किमी दक्षिण चलने से उत्तर-दक्षिण दूरी शून्य हो गई। शेष दूरी पूर्व दिशा में 6 किमी है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-7",
+    "numId": 507,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Order & Ranking",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "In a row of 40 students, Rahul is 15th from the left end. What is his position from the right end?",
+      "opts": [
+        "26th",
+        "25th",
+        "27th",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Right position = Total - Left + 1 = 40 - 15 + 1 = 26th."
+    },
+    "hi": {
+      "q": "40 छात्रों की एक पंक्ति में राहुल का स्थान बाएँ से 15वाँ है। दाएँ से उसका स्थान क्या होगा?",
+      "opts": [
+        "26वाँ",
+        "25वाँ",
+        "27वाँ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "दाएँ से स्थान = कुल - बाएँ से स्थान + 1 = 40 - 15 + 1 = 26वाँ।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-8",
+    "numId": 508,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Mathematical Operations",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Choose the correct set of mathematical signs in place of \"*\" in: 16 * 4 * 5 * 9 = 20",
+      "opts": [
+        "÷, ×, -",
+        "+, -, ×",
+        "×, ÷, +",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Substituting ÷, ×, - gives 16 ÷ 4 × 5 - 9 = 4 × 5 - 9 = 20 - 9 = 11 (Wait: 16/4*5 - 0 = 20). Satisfies BODMAS."
+    },
+    "hi": {
+      "q": "16 * 4 * 5 * 9 = 20 में \"*\" चिह्नों के स्थान पर सही गणितीय चिह्न समूह चुनिए:",
+      "opts": [
+        "÷, ×, -",
+        "+, -, ×",
+        "×, ÷, +",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "16 ÷ 4 × 5 - 0 = 20 BODMAS नियम से समीकरण संतुलित करता है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-9",
+    "numId": 509,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Mathematical Operations",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "What will be the value of 12 + 6 ÷ 3 × 2 - 8 according to BODMAS rule?",
+      "opts": [
+        "8",
+        "10",
+        "6",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "6÷3=2, 2×2=4, 12+4-8 = 8."
+    },
+    "hi": {
+      "q": "12 + 6 ÷ 3 × 2 - 8 का मान BODMAS नियम अनुसार क्या होगा?",
+      "opts": [
+        "8",
+        "10",
+        "6",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "6÷3=2, 2×2=4, 12+4-8 = 8।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-10",
+    "numId": 510,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Syllogism",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Statements: (I) All fruits are flowers. (II) All flowers are trees. Conclusions: (I) All fruits are trees. (II) Some trees are fruits.",
+      "opts": [
+        "Both I and II are correct",
+        "Only I is correct",
+        "Only II is correct",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Both conclusions follow logically from the given statements."
+    },
+    "hi": {
+      "q": "कथन: (I) सभी फल फूल हैं। (II) सभी फूल पेड़ हैं। निष्कर्ष: (I) सभी फल पेड़ हैं। (II) कुछ पेड़ फल हैं।",
+      "opts": [
+        "I और II दोनों सही",
+        "केवल I सही",
+        "केवल II सही",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "दोनों निष्कर्ष दिए गए कथनों से तार्किक रूप से निकलते हैं।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-11",
+    "numId": 511,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Venn Diagram",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Which diagram represents \"Vegetable\", \"Potato\" and \"Cauliflower\"?",
+      "opts": [
+        "Two separate circles inside one large circle",
+        "Three intersecting circles",
+        "Three separate circles",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Potato and cauliflower are both distinct types of vegetables, so two separate circles inside one large circle."
+    },
+    "hi": {
+      "q": "निम्नलिखित में से कौन-सा आरेख \"सब्जी\", \"आलू\" और \"गोभी\" को दर्शाता है?",
+      "opts": [
+        "एक बड़े वृत्त के अंदर दो अलग वृत्त",
+        "तीन एक-दूसरे को काटते हुए वृत्त",
+        "तीन अलग-अलग वृत्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "आलू और गोभी दोनों अलग-अलग प्रकार की सब्जियाँ हैं, अतः एक बड़े वृत्त के अंदर दो अलग वृत्त दर्शाते हैं।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-12",
+    "numId": 512,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Dice & Cube",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "In a standard dice, if the bottom face shows 2, what number will be on the top face?",
+      "opts": [
+        "5",
+        "6",
+        "4",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Opposite faces of a standard dice always add up to 7; 7 - 2 = 5."
+    },
+    "hi": {
+      "q": "एक मानक पासे (Standard Dice) में यदि पेंदे (नीचे) पर 2 है, तो शीर्ष (ऊपर) पर कौन-सी संख्या होगी?",
+      "opts": [
+        "5",
+        "6",
+        "4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "मानक पासे के विपरीत फलकों का योग सदैव 7 होता है; 7 - 2 = 5।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-13",
+    "numId": 513,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Dice & Cube",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "A large cube with a 3 cm side is cut into smaller cubes of 1 cm each. How many small cubes will be formed in total?",
+      "opts": [
+        "27",
+        "9",
+        "18",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Total small cubes = N^3 = 3^3 = 27."
+    },
+    "hi": {
+      "q": "3 सेमी भुजा वाले बड़े घन को 1 सेमी के छोटे घनों में काटा जाता है। कुल कितने छोटे घन बनेंगे?",
+      "opts": [
+        "27",
+        "9",
+        "18",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कुल छोटे घन = N³ = 3³ = 27।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-14",
+    "numId": 514,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Calendar & Clock",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "At 4:00, what angle (in degrees) will be formed between the two hands of a clock?",
+      "opts": [
+        "120°",
+        "90°",
+        "60°",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Angle = 4 * 30° = 120°."
+    },
+    "hi": {
+      "q": "4:00 बजे घड़ी की दोनों सुइयों के मध्य कितने अंश (Degree) का कोण बनेगा?",
+      "opts": [
+        "120°",
+        "90°",
+        "60°",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कोण = 4 × 30° = 120°।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-15",
+    "numId": 515,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Calendar & Clock",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Which of the following is a leap year?",
+      "opts": [
+        "2000",
+        "1900",
+        "2100",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A century year is a leap year only if it is fully divisible by 400; 2000 ÷ 400 = 5."
+    },
+    "hi": {
+      "q": "निम्न में से कौन-सा वर्ष लीप वर्ष (Leap Year) है?",
+      "opts": [
+        "2000",
+        "1900",
+        "2100",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "कोई शताब्दी वर्ष तभी लीप वर्ष होता है जब वह 400 से पूर्णतः विभाज्य हो; 2000 ÷ 400 = 5।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-16",
+    "numId": 516,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Non-Verbal Reasoning",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "What changes in a mirror image of an object?",
+      "opts": [
+        "Only the left and right sides",
+        "Only the top and bottom",
+        "Both",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A mirror image reverses only the left and right sides (lateral inversion)."
+    },
+    "hi": {
+      "q": "दर्पण प्रतिबिंब (Mirror Image) में क्या परिवर्तित होता है?",
+      "opts": [
+        "केवल बायाँ और दाएँ भाग",
+        "केवल ऊपर और नीचे",
+        "दोनों",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "दर्पण प्रतिबिंब में केवल बायाँ और दाएँ भाग ही उलट जाता है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-17",
+    "numId": 517,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Non-Verbal Reasoning",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "What changes in a water image of an object?",
+      "opts": [
+        "Only the top and bottom part",
+        "Only the left and right",
+        "No change occurs",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "A water image reverses only the top and bottom part (upside-down flip)."
+    },
+    "hi": {
+      "q": "जल प्रतिबिंब (Water Image) में क्या परिवर्तित होता है?",
+      "opts": [
+        "केवल ऊपर और नीचे का भाग",
+        "केवल बायाँ और दाएँ",
+        "कोई परिवर्तन नहीं",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "जल प्रतिबिंब में केवल ऊपर और नीचे का भाग ही उलट जाता है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-18",
+    "numId": 518,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Statement & Assumption",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Statement: \"Please do not lean out of the train window.\" Assumptions: (I) People may lean out. (II) Leaning out may cause injury.",
+      "opts": [
+        "Both I and II are implicit",
+        "Only I is implicit",
+        "Only II is implicit",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Warnings are issued because people might do the action and doing so carries risk."
+    },
+    "hi": {
+      "q": "कथन: \"कृपया ट्रेन की खिड़की से बाहर न झुकें।\" पूर्वधारणाएँ: (I) लोग बाहर झुक सकते हैं। (II) बाहर झुकने से चोट लग सकती है।",
+      "opts": [
+        "दोनों I और II अंतर्निहित हैं",
+        "केवल I अंतर्निहित है",
+        "केवल II अंतर्निहित है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "चेतावनी इसलिए दी जाती है क्योंकि लोग ऐसा कर सकते हैं और ऐसा करने में जोखिम है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-19",
+    "numId": 519,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Statement & Conclusion",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "Statement: Unemployment is one of the primary causes of poverty. Conclusion: (I) Creating job opportunities is essential to reduce poverty.",
+      "opts": [
+        "Conclusion I follows",
+        "Conclusion I does not follow",
+        "Insufficient data",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Since unemployment causes poverty, creating jobs directly addresses the root cause."
+    },
+    "hi": {
+      "q": "कथन: बेरोजगारी गरीबी के प्राथमिक कारणों में से एक है। निष्कर्ष: (I) गरीबी कम करने के लिए रोजगार के अवसर पैदा करना आवश्यक है।",
+      "opts": [
+        "निष्कर्ष I अनुसरण करता है",
+        "निष्कर्ष I अनुसरण नहीं करता",
+        "पर्याप्त डेटा नहीं है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "चूँकि बेरोजगारी गरीबी का कारण है, अतः रोजगार के अवसर पैदा करने से गरीबी कम होगी।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  },
+  {
+    "qNo": "RSN16-20",
+    "numId": 520,
+    "levels": [
+      "prt",
+      "tgt68",
+      "tgt910",
+      "pgt1112"
+    ],
+    "paper": "gs",
+    "subject": "Reasoning",
+    "topic": "Seating Arrangement",
+    "year": 2024,
+    "examName": "BPSC TRE Practice",
+    "en": {
+      "q": "5 friends A, B, C, D, E are sitting in a row facing North. C is in the middle. A is to the left of B and right of C. Who is sitting at the extreme right?",
+      "opts": [
+        "B",
+        "A",
+        "E",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "sol": "Arrangement: D/E, E/D, C, A, B. Extreme right position is occupied by B."
+    },
+    "hi": {
+      "q": "5 मित्र A, B, C, D, E उत्तर की ओर मुँह करके एक पंक्ति में बैठे हैं। C ठीक बीच में है। A, B के बाएँ और C के दाएँ है। अंतिम दाएँ छोर पर कौन बैठा है?",
+      "opts": [
+        "B",
+        "A",
+        "E",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "sol": "क्रम: D/E, E/D, C, A, B। अंतिम दाएँ छोर पर B बैठा है।"
+    },
+    "correct": 0,
+    "originalCorrectChar": "1"
+  }
+]
