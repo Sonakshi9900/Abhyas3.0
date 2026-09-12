@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useLanguage } from '../context/LanguageContext';
 import { ArrowLeft, Download, FileText, ChevronDown } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const NotesReader = ({ noteId, onBack }) => {
   const { lang } = useLanguage();
@@ -10,7 +11,7 @@ const NotesReader = ({ noteId, onBack }) => {
 
   useEffect(() => {
     setLoading(true);
-    fetch(`/api/notes/${noteId}`)
+    fetch(`${API_BASE}/api/notes/${noteId}`)
       .then(res => res.json())
       .then(data => {
         setLoading(false);

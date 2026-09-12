@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
-import { BookOpen, Layers, ChevronRight, ArrowLeft } from 'lucide-react';
+import { BookOpen, Target, Sparkles, ArrowLeft, ArrowRight, Layers, FileText, ChevronRight, X } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const DEFAULT_SUBJECTS = [
   { name: 'Mathematics', nameHi: 'गणित', count: 16 },
@@ -114,7 +115,7 @@ const SubjectPicker = ({ levelCode, onStartSubjectQuiz, onBack }) => {
   const [activeSubjectModal, setActiveSubjectModal] = useState(null);
 
   useEffect(() => {
-    fetch(`/api/questions/subjects?level=${levelCode}`)
+    fetch(`${API_BASE}/api/questions/subjects?level=${levelCode}`)
       .then(res => res.json())
       .then(data => {
         if (data.success && data.data && data.data.length > 0) {

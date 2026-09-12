@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useLanguage } from '../context/LanguageContext';
 import { BookOpen, FileText, Download, Eye, AlertCircle, Clock } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const NotesSection = ({ onOpenReader }) => {
   const { lang } = useLanguage();
@@ -12,7 +13,7 @@ const NotesSection = ({ onOpenReader }) => {
 
   useEffect(() => {
     setLoading(true);
-    fetch(`/api/notes/subjects?year=${selectedYear}&language=${selectedLang}`)
+    fetch(`${API_BASE}/api/notes/subjects?year=${selectedYear}&language=${selectedLang}`)
       .then(res => res.json())
       .then(data => {
         setLoading(false);

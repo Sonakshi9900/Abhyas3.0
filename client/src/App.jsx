@@ -13,6 +13,7 @@ import NotesSection from './components/NotesSection';
 import NotesReader from './components/NotesReader';
 import ProfileView from './components/ProfileView';
 import AuthPromptModal from './components/AuthPromptModal';
+import { API_BASE } from './config';
 
 function AppContent() {
   const [tab, setTab] = useState('practice'); // 'practice' | 'notes' | 'profile'
@@ -33,7 +34,7 @@ function AppContent() {
   useEffect(() => {
     const token = localStorage.getItem('abhyastre_token');
     if (token) {
-      fetch('/api/auth/me', {
+      fetch(`${API_BASE}/api/auth/me`, {
         headers: { 'Authorization': `Bearer ${token}` }
       })
         .then(res => res.json())
@@ -187,7 +188,7 @@ function AppContent() {
       setQuizMode(mode);
       setIsReviewMode(false);
 
-      let apiUrl = `/api/questions?level=${levelCode}&subject=${encodeURIComponent(subject)}`;
+      let apiUrl = `${API_BASE}/api/questions?level=${levelCode}&subject=${encodeURIComponent(subject)}`;
       if (topic && topic !== 'all') {
         apiUrl += `&topic=${encodeURIComponent(topic)}`;
       }
@@ -199,7 +200,7 @@ function AppContent() {
           if (data.success && data.data && data.data.length > 0) {
             setActiveQuestions(data.data);
           } else {
-            fetch(`/api/questions?level=${levelCode}`)
+            fetch(`${API_BASE}/api/questions?level=${levelCode}`)
               .then(r => r.json())
               .then(d => {
                 if (d.data) setActiveQuestions(d.data);
@@ -223,7 +224,7 @@ function AppContent() {
       setIsReviewMode(false);
       const lvlInfo = LEVELS[levelCode] || LEVELS.prt;
 
-      fetch(`/api/questions?level=${levelCode}&year=${year}`)
+      fetch(`${API_BASE}/api/questions?level=${levelCode}&year=${year}`)
         .then(res => res.json())
         .then(data => {
           setLoading(false);
@@ -256,7 +257,7 @@ function AppContent() {
       ...(token ? { 'Authorization': `Bearer ${token}` } : {})
     };
 
-    fetch('/api/attempts/submit', {
+    fetch(`${API_BASE}/api/attempts/submit`, {
       method: 'POST',
       headers,
       body: JSON.stringify({

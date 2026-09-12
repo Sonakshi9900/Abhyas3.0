@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
 import { Clock, Calendar, CheckCircle2 } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const HistoryDrawer = ({ isOpen, onClose }) => {
   const { lang } = useLanguage();
@@ -11,7 +12,7 @@ const HistoryDrawer = ({ isOpen, onClose }) => {
       const token = localStorage.getItem('abhyastre_token');
       const headers = token ? { 'Authorization': `Bearer ${token}` } : {};
 
-      fetch('/api/attempts/history', { headers })
+      fetch(`${API_BASE}/api/attempts/history`, { headers })
         .then(res => res.json())
         .then(data => {
           if (data.success && data.data) {

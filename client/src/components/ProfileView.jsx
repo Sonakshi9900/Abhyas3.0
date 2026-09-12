@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
 import { User, Moon, Sun, Award, LogOut, CheckCircle, AlertCircle, Eye, EyeOff, Lock, Mail, ShieldCheck, LogIn } from 'lucide-react';
+import { API_BASE } from '../config';
 
 const ProfileView = ({ theme, onToggleTheme, userStats, autoOpenAuthModal = false, onUserChange }) => {
   const { lang } = useLanguage();
@@ -60,7 +61,7 @@ const ProfileView = ({ theme, onToggleTheme, userStats, autoOpenAuthModal = fals
     }
 
     try {
-      const endpoint = authMode === 'login' ? '/api/auth/login' : '/api/auth/register';
+      const endpoint = authMode === 'login' ? `${API_BASE}/api/auth/login` : `${API_BASE}/api/auth/register`;
       const payload = authMode === 'login'
         ? { email: emailInput.trim(), password: passwordInput }
         : { name: nameInput.trim() || emailInput.trim().split('@')[0], email: emailInput.trim(), password: passwordInput };
