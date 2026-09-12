@@ -80,3 +80,5 @@ app.listen(PORT, () => {
   console.log(`   Notes static files: http://localhost:${PORT}/notes`);
   console.log(`=======================================================`);
 });
+
+module.exports = app;

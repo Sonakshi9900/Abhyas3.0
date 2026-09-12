@@ -4,7 +4,7 @@
   "description": "Backend API for AbhyasTRE BPSC Preparation Platform",
   "main": "server.js",
   "scripts": {
-    "build": "cd ../client && npm install && npm run build && node -e \"require('fs').cpSync('dist', '../dist', { recursive: true })\"",
+    "build": "echo 'Backend server ready'",
     "start": "node server.js",
     "dev": "node --watch server.js",
     "seed": "node scripts/seedData.js",
